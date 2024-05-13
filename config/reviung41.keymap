@@ -8,65 +8,102 @@
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
 #include <dt-bindings/zmk/rgb.h>
+#include "mouse.dtsi"
 
 / {
+        behaviors {
+                lh_pht: left_positional_hold_tap {
+                        compatible = "zmk,behavior-hold-tap";
+                        #binding-cells = <2>;
+                        flavor = "tap-unless-interrupted";
+                        tapping-term-ms = <100>;                        // <---[[produces tap if held longer than tapping-term-ms]]
+                        quick-tap-ms = <200>;
+                        bindings = <&kp>, <&kp>;
+                        hold-trigger-key-positions = <6 7 8 9>;    // <---[[right-hand keys]]
+                };
+                rh_pht: right_positional_hold_tap {
+                        compatible = "zmk,behavior-hold-tap";
+                        #binding-cells = <2>;
+                        flavor = "tap-unless-interrupted";
+                        tapping-term-ms = <100>;                        // <---[[produces tap if held longer than tapping-term-ms]]
+                        quick-tap-ms = <200>;
+                        bindings = <&kp>, <&kp>;
+                        hold-trigger-key-positions = <0 1 2 3>;    // <---[[left-hand keys]]
+                };
+        };
         keymap {
                 compatible = "zmk,keymap";
 
-                default_layer {
-// -------------------------------------------------------------------------------------
-// |  TAB |  Q  |  W  |  E  |  R  |  T  |   |  Y  |  U   |  I  |  O  |  P  |   BKSP    |
-// | CTRL |  A  |  S  |  D  |  F  |  G  |   |  H  |  J   |  K  |  L  |  ;  |    '      |
-// | SHFT |  Z  |  X  |  C  |  V  |  B  |   |  N  |  M   |  ,  |  .  |  /  | SHFT(RET) |
-//                         | ALT | LWR | SPC | RSE  | ALT |
+                qwerty_layer { // 0
                         bindings = <
-   &kp TAB   &kp Q &kp W &kp E &kp R &kp T   &kp Y &kp U  &kp I     &kp O   &kp P    &kp BSPC
-   &kp LCTRL &kp A &kp S &kp D &kp F &kp G   &kp H &kp J  &kp K     &kp L   &kp SEMI &kp SQT
-   &kp LSHFT &kp Z &kp X &kp C &kp V &kp B   &kp N &kp M  &kp COMMA &kp DOT &kp FSLH &mt RSHFT RET
-                        &kp LALT  &mo 1 &kp SPACE &mo 2  &kp RGUI
+   &kp          Q &kp          W &kp           E &kp          R  &kp T &none     &none &kp Y &kp           U &kp           I &kp          O &kp          P
+   &lh_pht LGUI A &lh_pht LALT S &lh_pht LCTRL D &lh_pht LSFHT F &kp G &none     &none &kp H &rh_pht RSFHT J &rh_pht RCTRL K &rh_pht LALT L &rh_pht RGUI QUOT
+   &kp          Z &kp          X &kp           C &kp          V  &kp B &none     &none &kp N &kp           M &kp       COMMA &kp        DOT &kp          FSLH
+                                                     &lt 4 TAB &lt 5 ENTER &none &kp 3 SPACE  &lt 1 BACKSPACE
                         >;
                 };
 
-                lower_layer {
-// ------------------------------------------------------------------------------------
-// |    |  !  |  @  |  #  |  $  |  %  |   |  ^  |  &  |  *  |  (  |  )  |      DEL    |
-// |    |  _  |  +  |  {  |  }  | "|" |   | LFT | DWN |  UP | RGT |  `  |       ~     |
-// |    | ESC | GUI | ALT | CAPS|  "  |   | HOME| END | PGUP| PGDN| PRSC| SHFT(SPACE) |
-//                       |     |     | RET | ADJ |     |
+                number_layer { // 1
                         bindings = <
-   &trans &kp EXCL  &kp AT      &kp HASH &kp DLLR &kp PRCNT      &kp CARET &kp AMPS &kp ASTRK &kp LPAR  &kp RPAR  &kp DEL
-   &trans &kp UNDER &kp PLUS    &kp LBRC &kp RBRC &kp PIPE       &kp LEFT  &kp DOWN &kp UP    &kp RIGHT &kp GRAVE &kp TILDE
-   &trans &kp ESC   &kp LGUI    &kp LALT &kp CLCK &kp DQT        &kp HOME  &kp END  &kp PG_UP &kp PG_DN &kp PSCRN &mt RSHFT SPACE
-                                 &trans      &trans       &kp RET        &mo 3       &trans
+   &kp LBRC  &kp 7 &kp 8 &kp 9 &kp RBRC  &none       &none &none &none     &none     &none    &lt 2 DELETE
+   &kp SEMI  &kp 4 &kp 5 &kp 6 &kp EQUAL &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
+   &kp GRAVE &kp 1 &kp 2 &kp 3 &kp BSLH  &none       &none &none &none     &none     &kp RALT &none
+                               &kp 0 &kp MINUS &none &none &none
                         >;
                 };
 
-                raise_layer {
-// ----------------------------------------------------------------------------
-// |    |  1  |  2  |  3  |  4  |  5  |   |  6  |  7  |  8  |  9  |  0  | DEL |
-// |    |  -  |  =  |  [  |  ]  |  \  |   | F1  | F2  | F3  | F4  | F5  | F6  |
-// |    | ESC | GUI | ALT | CAPS|  "  |   | F7  | F8  | F9  | F10 | F11 | F12 |
-//                       |     | ADJ | BKSP |    |     |
-                        bindings = <
-   &trans &kp N1    &kp N2    &kp N3    &kp N4    &kp N5        &kp N6    &kp N7    &kp N8    &kp N9    &kp N0    &kp DEL
-   &trans &kp MINUS &kp EQUAL &kp LBKT  &kp RBKT  &kp BSLH      &kp F1    &kp F2    &kp F3    &kp F4    &kp F5    &kp F6
-   &trans &kp ESC   &kp LGUI  &kp RALT  &kp CLCK  &kp DQT       &kp F7    &kp F8    &kp F9    &kp F10   &kp F11   &kp F12
-                                &trans      &mo 3       &kp BSPC        &trans      &trans
+                function_layer { // 2
+                        binding = <
+   &kp F12 &kp F7 &kp F8 &kp F9 &kp PSCRN &none       &none &none &none     &none     &none    &none
+   &kp F11 &kp F4 &kp F5 &kp F6 &none     &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
+   &kp F10 &kp F1 &kp F2 &kp F3 &none     &none       &none &none &none     &none     &kp RALT &none
+                               &kp 0 &kp MINUS &none &none &none
                         >;
                 };
 
-                adjust_layer {
-// -----------------------------------------------------------------------------------------
-// | RGB BRI+ | RGB SAT+ | RGB HUE+ | RGB ANI+ |    | RGB TOG |   |  BT1  | BT2 | BT3 | BT4 | BT5 | BT CLR |
-// | RGB BRI- | RGB SAT- | RGB HUE- | RGB ANI- |    |         |   |       |     |     |     |     |        |
-// |          |          |          |          |    |         |   | RESET |     |     |     |     |        |
-//                                              |     |     |     |     |     |
+                symbol_layer { // 3
                         bindings = <
-   &rgb_ug RGB_BRI &rgb_ug RGB_SAI &rgb_ug RGB_HUI &rgb_ug RGB_EFF &none &rgb_ug RGB_TOG    &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR
-   &rgb_ug RGB_BRD &rgb_ug RGB_SAD &rgb_ug RGB_HUD &rgb_ug RGB_EFR &none &none              &none        &none        &none        &none        &none        &none
-   &none           &none           &none           &none           &none &none              &sys_reset       &none        &none        &none        &none        &none
-                                                             &trans      &trans       &tog 3        &trans      &trans
+   &kp LBKT  &kp AMPS &kp ASTRK   &kp LPAR &kp RBKT &none       &none &none &none     &none     &none    &none
+   &kp COLON &kp DLLR &kp PERCENT &kp PLUS &kp PLUS &none       &none &none &kp RSFHT &kp RCTRL &kp LALT &kp RGUI
+   &kp TILDE &kp EXCL &kp AT      &kp HASH &kp PIPE &none       &none &none &none     &none     &kp RALT &none
+                                       &kp LPAR &kp RPAR &none &none &none
                         >;
                 };
+
+                nav_layer { // 4
+                        bindings = <
+   &lt 6 ESC &none    &none     &none     &none &none       &none &none    &kp K_PASTE &kp K_COPY &kp K_CUT &none
+   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp LEFT &kp DOWN    &kp UP     &kp RIGHT &kp CAPS
+   &none     &none    &none     &none     &none &none       &none &kp HOME &kp PG_DN   &kp PG_UP  &kp END   &kp INS
+                                          &none &none &none &kp SPACE &kp BSPC
+                        >;
+                };
+
+                mouse_layer { // 5
+                        binding = <
+   &none     &none    &none     &none     &none &none       &none &none      &none        &none      &kp K_CUT  &none
+   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp U_MS_L &kp U_MS_D   &kp U_MS_UP  &kp U_MS_R &none
+   &none     &none    &none     &none     &none &none       &none &kp U_WH_L &kp U_WH_D   &kp U_WH_UP  &kp U_WH_R &none
+                                          &none &none &none &kp SPACE &kp BSPC
+                        >;
+                };
+
+                media_layer { // 6
+                        binding = <
+   &none     &none    &none     &none     &none &none       &none &none &mkp MCLK   &none        &none        &none
+   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &none &kp C_PREV  &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT
+   &none     &none    &none     &none     &none &none       &none &none &none       &kp C_BRI_DN &kp C_BRI_UP &kp INS
+                                          &none &none &none &mkp  LCLK  &mkp RCLK
+                        >;
+                };
+
+//                 adjust_layer {
+//                         bindings = <
+//    &rgb_ug RGB_BRI &rgb_ug RGB_SAI &rgb_ug RGB_HUI &rgb_ug RGB_EFF &none &rgb_ug RGB_TOG    &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR
+//    &rgb_ug RGB_BRD &rgb_ug RGB_SAD &rgb_ug RGB_HUD &rgb_ug RGB_EFR &none &none              &none        &none        &none        &none        &none        &none
+//    &none           &none           &none           &none           &none &none              &sys_reset       &none        &none        &none        &none        &none
+//                                                              &trans      &trans       &tog 3        &trans      &trans
+//                         >;
+//                 };
         };
 };
