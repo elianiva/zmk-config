@@ -37,9 +37,9 @@
                 qwerty_layer { // 0
                         bindings = <
    &kp          Q &kp          W &kp           E &kp          R  &kp T &none     &none &kp Y &kp           U &kp           I &kp          O &kp          P
-   &lh_pht LGUI A &lh_pht LALT S &lh_pht LCTRL D &lh_pht LSFHT F &kp G &none     &none &kp H &rh_pht RSFHT J &rh_pht RCTRL K &rh_pht LALT L &rh_pht RGUI QUOT
+   &lh_pht LGUI A &lh_pht LALT S &lh_pht LCTRL D &lh_pht LSHFT F &kp G &none     &none &kp H &rh_pht RSHFT J &rh_pht RCTRL K &rh_pht LALT L &rh_pht RGUI QUOT
    &kp          Z &kp          X &kp           C &kp          V  &kp B &none     &none &kp N &kp           M &kp       COMMA &kp        DOT &kp          FSLH
-                                                     &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE  &lt 1 BACKSPACE
+                                                     &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE &lt 1 BACKSPACE
                         >;
                 };
 
@@ -64,7 +64,7 @@
                 symbol_layer { // 3
                         bindings = <
    &kp LBKT  &kp AMPS &kp ASTRK   &kp LPAR &kp RBKT &none       &none &none &none     &none     &none    &none
-   &kp COLON &kp DLLR &kp PERCENT &kp PLUS &kp PLUS &none       &none &none &kp RSFHT &kp RCTRL &kp LALT &kp RGUI
+   &kp COLON &kp DLLR &kp PERCENT &kp PLUS &kp PLUS &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
    &kp TILDE &kp EXCL &kp AT      &kp HASH &kp PIPE &none       &none &none &none     &none     &kp RALT &none
                                        &kp LPAR &kp RPAR &none &none &none
                         >;
@@ -81,7 +81,7 @@
 
                 mouse_layer { // 5
                         binding = <
-   &none     &none    &none     &none     &none &none       &none &none      &none        &none      &kp K_CUT  &none
+   &none     &none    &none     &none     &none &none       &none &none      &none        &none        &kp K_CUT  &none
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp U_MS_L &kp U_MS_D   &kp U_MS_UP  &kp U_MS_R &none
    &none     &none    &none     &none     &none &none       &none &kp U_WH_L &kp U_WH_D   &kp U_WH_UP  &kp U_WH_R &none
                                           &none &none &none &kp SPACE &kp BSPC
