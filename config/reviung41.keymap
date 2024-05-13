@@ -39,7 +39,7 @@
    &kp          Q &kp          W &kp           E &kp          R  &kp T &none     &none &kp Y &kp           U &kp           I &kp          O &kp          P
    &lh_pht LGUI A &lh_pht LALT S &lh_pht LCTRL D &lh_pht LSFHT F &kp G &none     &none &kp H &rh_pht RSFHT J &rh_pht RCTRL K &rh_pht LALT L &rh_pht RGUI QUOT
    &kp          Z &kp          X &kp           C &kp          V  &kp B &none     &none &kp N &kp           M &kp       COMMA &kp        DOT &kp          FSLH
-                                                     &lt 4 TAB &lt 5 ENTER &none &kp 3 SPACE  &lt 1 BACKSPACE
+                                                     &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE  &lt 1 BACKSPACE
                         >;
                 };
 
