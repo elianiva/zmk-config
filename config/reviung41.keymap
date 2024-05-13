@@ -7,8 +7,11 @@
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
-#include <dt-bindings/zmk/rgb.h>
 #include "mouse.dtsi"
+
+&soft_off {
+    hold-time-ms = <1000>; // Only turn off it the key is held for 1 seconds or longer.
+};
 
 / {
         behaviors {
@@ -18,7 +21,7 @@
                         flavor = "tap-preferred";
                         tapping-term-ms = <200>;                        // <---[[produces tap if held longer than tapping-term-ms]]
                         quick-tap-ms = <200>;
-                        require-prior-idle-ms = <125>;
+                        require-prior-idle-ms = <90>;
                         bindings = <&kp>, <&kp>;
                 };
                 rpi: right_require_prior_idle {
@@ -27,7 +30,7 @@
                         flavor = "tap-preferred";
                         tapping-term-ms = <200>;                        // <---[[produces tap if held longer than tapping-term-ms]]
                         quick-tap-ms = <200>;
-                        require-prior-idle-ms = <125>;
+                        require-prior-idle-ms = <90>;
                         bindings = <&kp>, <&kp>;
                 };
         };
@@ -47,7 +50,7 @@
                         bindings = <
    &kp LBRC  &kp N7 &kp N8 &kp N9 &kp RBRC  &none       &none &none &none     &none     &none    &lt 2 DELETE
    &kp SEMI  &kp N4 &kp N5 &kp N6 &kp EQUAL &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
-   &kp GRAVE &kp N1 &kp N2 &kp N3 &kp BSLH  &none       &none &none &none     &none     &kp RALT &none
+   &kp GRAVE &kp N1 &kp N2 &kp N3 &kp BSLH  &none       &none &none &none     &none     &kp RALT &mo 7
                                &kp N0 &kp MINUS &none &none &none
                         >;
                 };
@@ -96,6 +99,15 @@
                                           &none &none &none &kp C_PP &kp C_STOP
                         >;
                 };
+
+                bluetooth_layer { // 7
+                        bindings = <
+   &none &bt BT_PREV  &bt BT_CLR   &bt BT_NXT   &none &none       &none &none &none     &none     &none    &none
+   &none &bt BT_SEL 4 &bt BT_SEL 5 &none        &none &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
+   &none &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &none &none       &none &none &soft_off &none     &kp RALT &none
+                                                &none &none &none &none &none
+                        >;
+                }
 
 //                 adjust_layer {
 //                         bindings = <
