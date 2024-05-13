@@ -81,9 +81,9 @@
 
                 mouse_layer { // 5
                         binding = <
-   &none     &none    &none     &none     &none &none       &none &none      &none        &none        &kp K_CUT  &none
-   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp U_MS_L &kp U_MS_D   &kp U_MS_UP  &kp U_MS_R &none
-   &none     &none    &none     &none     &none &none       &none &kp U_WH_L &kp U_WH_D   &kp U_WH_UP  &kp U_WH_R &none
+   &none     &none    &none     &none     &none &none       &none &none  &none  &none   &kp K_CUT  &none
+   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none U_MS_L U_MS_D U_MS_UP U_MS_R     &none
+   &none     &none    &none     &none     &none &none       &none U_WH_L U_WH_D U_WH_UP U_WH_R     &none
                                           &none &none &none &kp SPACE &kp BSPC
                         >;
                 };
