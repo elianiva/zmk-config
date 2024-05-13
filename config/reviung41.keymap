@@ -12,7 +12,7 @@
 
 / {
         behaviors {
-                lpi: require_prior_idle {
+                lpi: left_require_prior_idle {
                         compatible = "zmk,behavior-hold-tap";
                         #binding-cells = <2>;
                         flavor = "tap-preferred";
@@ -21,7 +21,7 @@
                         require-prior-idle-ms = <125>;
                         bindings = <&kp>, <&kp>;
                 };
-                rpi: require_prior_idle {
+                rpi: right_require_prior_idle {
                         compatible = "zmk,behavior-hold-tap";
                         #binding-cells = <2>;
                         flavor = "tap-preferred";
