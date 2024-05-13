@@ -12,23 +12,23 @@
 
 / {
         behaviors {
-                lh_pht: left_positional_hold_tap {
+                lpi: require_prior_idle {
                         compatible = "zmk,behavior-hold-tap";
                         #binding-cells = <2>;
-                        flavor = "tap-unless-interrupted";
-                        tapping-term-ms = <100>;                        // <---[[produces tap if held longer than tapping-term-ms]]
+                        flavor = "tap-preferred";
+                        tapping-term-ms = <200>;                        // <---[[produces tap if held longer than tapping-term-ms]]
                         quick-tap-ms = <200>;
+                        require-prior-idle-ms = <125>;
                         bindings = <&kp>, <&kp>;
-                        hold-trigger-key-positions = <6 7 8 9>;    // <---[[right-hand keys]]
                 };
-                rh_pht: right_positional_hold_tap {
+                rpi: require_prior_idle {
                         compatible = "zmk,behavior-hold-tap";
                         #binding-cells = <2>;
-                        flavor = "tap-unless-interrupted";
-                        tapping-term-ms = <100>;                        // <---[[produces tap if held longer than tapping-term-ms]]
+                        flavor = "tap-preferred";
+                        tapping-term-ms = <200>;                        // <---[[produces tap if held longer than tapping-term-ms]]
                         quick-tap-ms = <200>;
+                        require-prior-idle-ms = <125>;
                         bindings = <&kp>, <&kp>;
-                        hold-trigger-key-positions = <0 1 2 3>;    // <---[[left-hand keys]]
                 };
         };
         keymap {
@@ -37,7 +37,7 @@
                 qwerty_layer { // 0
                         bindings = <
    &kp          Q &kp          W &kp           E &kp          R  &kp T &none     &none &kp Y &kp           U &kp           I &kp          O &kp          P
-   &lh_pht LGUI A &lh_pht LALT S &lh_pht LCTRL D &lh_pht LSHFT F &kp G &none     &none &kp H &rh_pht RSHFT J &rh_pht RCTRL K &rh_pht LALT L &rh_pht RGUI QUOT
+   &lpi    LGUI A &lpi    LALT S &lpi    LCTRL D &lpi    LSHFT F &kp G &none     &none &kp H &rpi    RSHFT J &rpi    RCTRL K &rpi    LALT L &rpi    RGUI QUOT
    &kp          Z &kp          X &kp           C &kp          V  &kp B &none     &none &kp N &kp           M &kp       COMMA &kp        DOT &kp          FSLH
                                                      &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE &lt 1 BACKSPACE
                         >;
@@ -45,10 +45,10 @@
 
                 number_layer { // 1
                         bindings = <
-   &kp LBRC  &kp 7 &kp 8 &kp 9 &kp RBRC  &none       &none &none &none     &none     &none    &lt 2 DELETE
-   &kp SEMI  &kp 4 &kp 5 &kp 6 &kp EQUAL &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
-   &kp GRAVE &kp 1 &kp 2 &kp 3 &kp BSLH  &none       &none &none &none     &none     &kp RALT &none
-                               &kp 0 &kp MINUS &none &none &none
+   &kp LBRC  &kp N7 &kp N8 &kp N9 &kp RBRC  &none       &none &none &none     &none     &none    &lt 2 DELETE
+   &kp SEMI  &kp N4 &kp N5 &kp N6 &kp EQUAL &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
+   &kp GRAVE &kp N1 &kp N2 &kp N3 &kp BSLH  &none       &none &none &none     &none     &kp RALT &none
+                               &kp N0 &kp MINUS &none &none &none
                         >;
                 };
 
