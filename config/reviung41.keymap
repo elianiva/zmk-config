@@ -15,6 +15,12 @@
 };
 
 / {
+        chosen {
+                zmk,battery = &vbatt;
+        };
+        vbatt: vbatt {
+                compatible = "zmk,battery-nrf-vddh";
+        };
         behaviors {
                 lpi: left_require_prior_idle {
                         compatible = "zmk,behavior-hold-tap";
