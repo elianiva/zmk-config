@@ -19,7 +19,7 @@
                 zmk,battery = &vbatt;
         };
         vbatt: vbatt {
-                compatible = "zmk,battery-nrf-vddh";
+                compatible = "zmk,battery-voltage-divider";
         };
         behaviors {
                 lpi: left_require_prior_idle {
@@ -109,10 +109,10 @@
 
                 bluetooth_layer { // 7
                         bindings = <
-   &none &bt BT_PRV   &bt BT_CLR   &bt BT_NXT   &out OUT_BLE &none       &none &none &none     &none     &none    &none
-   &none &bt BT_SEL 4 &bt BT_SEL 5 &none        &out OUT_USB &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
-   &none &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &none        &none       &none &none &soft_off &none     &kp RALT &none
-                                                       &none &none &none &none &none
+   &none &bt BT_PRV   &bt BT_CLR   &bt BT_NXT     &out OUT_BLE &none       &none &none &none     &none     &none    &none
+   &none &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR_ALL &out OUT_USB &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
+   &none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2   &none        &none       &none &none &soft_off &none     &kp RALT &none
+                                                         &none &none &none &none &none
                         >;
                 };
 
