@@ -27,8 +27,8 @@
                         #binding-cells = <2>;
                         flavor = "balanced";
                         tapping-term-ms = <200>;                        // <---[[produces tap if held longer than tapping-term-ms]]
-                        quick-tap-ms = <200>;
-                        require-prior-idle-ms = <50>;
+                        quick-tap-ms = <175>;
+                        require-prior-idle-ms = <60>;
                         bindings = <&kp>, <&kp>;
                 };
                 rpi: right_require_prior_idle {
@@ -36,8 +36,8 @@
                         #binding-cells = <2>;
                         flavor = "balanced";
                         tapping-term-ms = <200>;                        // <---[[produces tap if held longer than tapping-term-ms]]
-                        quick-tap-ms = <200>;
-                        require-prior-idle-ms = <50>;
+                        quick-tap-ms = <175>;
+                        require-prior-idle-ms = <60>;
                         bindings = <&kp>, <&kp>;
                 };
         };
@@ -46,10 +46,10 @@
 
                 qwerty_layer { // 0
                         bindings = <
-   &kp          Q &kp          W &kp           E &kp          R  &kp T &none     &none &kp Y &kp           U &kp           I &kp          O &kp          P
-   &lpi    LGUI A &lpi    LALT S &lpi    LCTRL D &lpi    LSHFT F &kp G &none     &none &kp H &rpi    RSHFT J &rpi    RCTRL K &rpi    LALT L &rpi    RGUI QUOT
-   &kp          Z &kp          X &kp           C &kp          V  &kp B &none     &none &kp N &kp           M &kp       COMMA &kp        DOT &kp          FSLH
-                                                     &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE &lt 1 BACKSPACE
+   &kp Q       &kp W       &kp E        &kp R        &kp T &none     &none &kp Y &kp U        &kp I        &kp O       &kp P
+   &lpi LGUI A &lpi LALT S &lpi LCTRL D &lpi LSHFT F &kp G &none     &none &kp H &rpi RSHFT J &rpi RCTRL K &rpi LALT L &rpi RGUI QUOT
+   &kp Z       &kp X       &kp C        &kp V        &kp B &none     &none &kp N &kp M        &kp COMMA    &kp DOT     &kp FSLH
+                                          &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE &lt 1 BACKSPACE
                         >;
                 };
 
@@ -58,7 +58,7 @@
    &kp LBKT  &kp N7 &kp N8 &kp N9 &kp RBKT  &none       &none &soft_off &none     &none     &none    &lt 2 DELETE
    &kp SEMI  &kp N4 &kp N5 &kp N6 &kp EQUAL &none       &none &none     &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
    &kp GRAVE &kp N1 &kp N2 &kp N3 &kp BSLH  &none       &none &none     &none     &none     &kp RALT &mo 7
-                               &kp N0 &kp MINUS &none &none &none
+                                 &kp N0 &kp MINUS &none &none &none
                         >;
                 };
 
@@ -67,7 +67,7 @@
    &kp F12 &kp F7 &kp F8 &kp F9 &kp PSCRN &none       &none &none &none     &none     &none    &none
    &kp F11 &kp F4 &kp F5 &kp F6 &none     &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
    &kp F10 &kp F1 &kp F2 &kp F3 &none     &none       &none &none &none     &none     &kp RALT &none
-                               &kp 0 &kp MINUS &none &none &none
+                                &kp 0 &kp MINUS &none &none &none
                         >;
                 };
 
@@ -76,7 +76,7 @@
    &kp LBRC  &kp AMPS &kp ASTRK   &kp LPAR &kp RBRC &none       &none &none &none     &none     &none    &none
    &kp COLON &kp DLLR &kp PERCENT &kp PLUS &kp PLUS &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
    &kp TILDE &kp EXCL &kp AT      &kp HASH &kp PIPE &none       &none &none &none     &none     &kp RALT &none
-                                       &kp LPAR &kp RPAR &none &none &none
+                                        &kp LPAR &kp RPAR &none &none &none
                         >;
                 };
 
@@ -84,17 +84,17 @@
                         bindings = <
    &lt 6 ESC &none    &none     &none     &none &none       &none &none    &kp K_PASTE &kp K_COPY &kp K_CUT &caps_word
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp LEFT &kp DOWN    &kp UP     &kp RIGHT &kp CAPS
-   &none     &none    &none     &none     &none &none       &none &kp HOME &kp PG_DN   &kp PG_UP  &kp END   &kp INS
+   &none     &kp RALT &none     &none     &none &none       &none &kp HOME &kp PG_DN   &kp PG_UP  &kp END   &kp INS
                                           &none &none &none &kp SPACE &kp BSPC
                         >;
                 };
 
                 mouse_layer { // 5
                         bindings = <
-   &none     &none    &none     &none     &none &none       &none &mkp MCLK      &none          &none        &none           &none
+   &none     &none    &none     &none     &none &none       &none &mkp MCLK      &kp K_PASTE    &kp K_COPY   &kp K_CUT       &none
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_UP &mmv MOVE_RIGHT &none
-   &none     &none    &none     &none     &none &none       &none &msc SCRL_LEFT &msc SCRL_DOWN &msc SCRL_UP &msc SCRL_RIGHT &none
-                                          &none &none &none &mkp  LCLK  &mkp RCLK
+   &none     &kp RALT &none     &none     &none &none       &none &msc SCRL_LEFT &msc SCRL_DOWN &msc SCRL_UP &msc SCRL_RIGHT &none
+                                          &none &none &none &mkp LCLK &mkp RCLK
                         >;
                 };
 
@@ -102,7 +102,7 @@
                         bindings = <
    &none     &none    &none     &none     &none &none       &none &none &none       &none        &none        &none
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &none &kp C_PREV  &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT
-   &none     &none    &none     &none     &none &none       &none &none &none       &kp C_BRI_DN &kp C_BRI_UP &kp INS
+   &none     &kp RALT &none     &none     &none &none       &none &none &none       &kp C_BRI_DN &kp C_BRI_UP &none
                                           &none &none &none &kp C_PP &kp C_STOP
                         >;
                 };
