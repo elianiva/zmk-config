@@ -100,9 +100,9 @@
 
                 media_layer { // 6
                         bindings = <
-   &none     &none    &none     &none     &none &none       &none &none &none       &none        &none        &none
-   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &none &kp C_PREV  &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT
-   &none     &kp RALT &none     &none     &none &none       &none &none &none       &kp C_BRI_DN &kp C_BRI_UP &none
+   &none     &none    &none     &none     &none &none       &none &none       &kp C_MUTE   &none        &none      &none
+   &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp C_PREV  &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT &none
+   &none     &kp RALT &none     &none     &none &none       &none &none       &kp C_BRI_DN &kp C_BRI_UP &none      &none
                                           &none &none &none &kp C_PP &kp C_STOP
                         >;
                 };

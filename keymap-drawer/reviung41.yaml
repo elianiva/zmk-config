@@ -1,0 +1,338 @@
+layout: {qmk_keyboard: reviung/reviung41}
+layers:
+  qwerty:
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - {type: none}
+  - {type: none}
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - {t: A, h: '$$phosphor:regular/command$$'}
+  - {t: S, h: '$$phosphor:regular/option$$'}
+  - {t: D, h: '$$phosphor:regular/control$$'}
+  - {t: F, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - G
+  - {type: none}
+  - {type: none}
+  - H
+  - {t: J, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - {t: K, h: '$$phosphor:regular/control$$'}
+  - {t: L, h: '$$phosphor:regular/option$$'}
+  - {t: '''', h: '$$phosphor:regular/command$$'}
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - {type: none}
+  - {type: none}
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
+  - {t: '$$phosphor:regular/arrow-bend-down-left$$', h: mouse}
+  - {type: none}
+  - {t: '$$material:space_bar$$', h: symbol}
+  - {t: '$$phosphor:regular/backspace$$', h: number}
+  number:
+  - '['
+  - '7'
+  - '8'
+  - '9'
+  - ']'
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/power$$
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/trash$$', h: function}
+  - ;
+  - '4'
+  - '5'
+  - '6'
+  - '='
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/arrow-fat-up$$
+  - $$phosphor:regular/control$$
+  - $$phosphor:regular/option$$
+  - $$phosphor:regular/command$$
+  - '`'
+  - '1'
+  - '2'
+  - '3'
+  - \
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - {h: bluetooth}
+  - '0'
+  - '-'
+  - {type: none}
+  - {type: none}
+  - {type: held}
+  function:
+  - F12
+  - F7
+  - F8
+  - F9
+  - $$phosphor:regular/crop$$
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: held}
+  - F11
+  - F4
+  - F5
+  - F6
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/arrow-fat-up$$
+  - $$phosphor:regular/control$$
+  - $$phosphor:regular/option$$
+  - $$phosphor:regular/command$$
+  - F10
+  - F1
+  - F2
+  - F3
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - {type: none}
+  - '0'
+  - '-'
+  - {type: none}
+  - {type: none}
+  - {type: held}
+  symbol:
+  - '{'
+  - '&'
+  - '*'
+  - (
+  - '}'
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - ':'
+  - $
+  - '%'
+  - ^
+  - +
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/arrow-fat-up$$
+  - $$phosphor:regular/control$$
+  - $$phosphor:regular/option$$
+  - $$phosphor:regular/command$$
+  - '~'
+  - '!'
+  - '@'
+  - '#'
+  - '|'
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - {type: none}
+  - (
+  - )
+  - {type: none}
+  - {type: held}
+  - {type: none}
+  nav:
+  - {t: '$$phosphor:regular/sign-out$$', h: media}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/clipboard$$
+  - $$phosphor:regular/copy$$
+  - $$phosphor:regular/scissors$$
+  - {t: '$$phosphor:regular/arrow-fat-line-up$$', s: word}
+  - $$phosphor:regular/command$$
+  - $$phosphor:regular/option$$
+  - $$phosphor:regular/control$$
+  - $$phosphor:regular/arrow-fat-up$$
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/arrow-left$$
+  - $$phosphor:regular/arrow-down$$
+  - $$phosphor:regular/arrow-up$$
+  - $$phosphor:regular/arrow-right$$
+  - $$phosphor:regular/arrow-fat-line-up$$
+  - {type: none}
+  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/caret-line-left$$
+  - $$phosphor:regular/caret-line-down$$
+  - $$phosphor:regular/caret-line-up$$
+  - $$phosphor:regular/caret-line-right$$
+  - $$phosphor:regular/download-simple$$
+  - {type: held}
+  - {type: none}
+  - {type: none}
+  - $$material:space_bar$$
+  - $$phosphor:regular/backspace$$
+  mouse:
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/mouse-middle-click$$
+  - $$phosphor:regular/clipboard$$
+  - $$phosphor:regular/copy$$
+  - $$phosphor:regular/scissors$$
+  - {type: none}
+  - $$phosphor:regular/command$$
+  - $$phosphor:regular/option$$
+  - $$phosphor:regular/control$$
+  - $$phosphor:regular/arrow-fat-up$$
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-left$$'}
+  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-down$$'}
+  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-up$$'}
+  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-right$$'}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-left$$'}
+  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-down$$'}
+  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-up$$'}
+  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-right$$'}
+  - {type: none}
+  - {type: none}
+  - {type: held}
+  - {type: none}
+  - $$phosphor:regular/mouse-left-click$$
+  - $$phosphor:regular/mouse-right-click$$
+  media:
+  - {type: held}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/speaker-simple-x$$
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/command$$
+  - $$phosphor:regular/option$$
+  - $$phosphor:regular/control$$
+  - $$phosphor:regular/arrow-fat-up$$
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/skip-back$$
+  - $$phosphor:regular/speaker-simple-low$$
+  - $$phosphor:regular/speaker-simple-high$$
+  - $$phosphor:regular/skip-forward$$
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/sun-dim$$
+  - $$phosphor:regular/sun$$
+  - {type: none}
+  - {type: none}
+  - {type: held}
+  - {type: none}
+  - {type: none}
+  - $$phosphor:regular/play-pause$$
+  - $$phosphor:regular/stop$$
+  bluetooth:
+  - {type: none}
+  - {t: '$$phosphor:regular/skip-back$$', h: '$$phosphor:regular/bluetooth$$'}
+  - {t: '$$phosphor:regular/trash-simple$$', h: '$$phosphor:regular/bluetooth$$'}
+  - {t: '$$phosphor:regular/skip-forward$$', h: '$$phosphor:regular/bluetooth$$'}
+  - {t: '$$phosphor:regular/keyboard$$', s: '$$phosphor:regular/bluetooth$$'}
+  - {type: none}
+  - {type: none}
+  - {t: '$$phosphor:regular/keyboard$$', s: '$$phosphor:regular/usb$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '3', h: '$$phosphor:regular/bluetooth-connected$$'}
+  - {t: '4', h: '$$phosphor:regular/bluetooth-connected$$'}
+  - {t: '$$phosphor:regular/trash$$', h: '$$phosphor:regular/bluetooth$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '3', h: '$$phosphor:regular/bluetooth-slash$$'}
+  - {t: '4', h: '$$phosphor:regular/bluetooth-slash$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '0', h: '$$phosphor:regular/bluetooth-connected$$'}
+  - {t: '1', h: '$$phosphor:regular/bluetooth-connected$$'}
+  - {t: '2', h: '$$phosphor:regular/bluetooth-connected$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {t: '0', h: '$$phosphor:regular/bluetooth-slash$$'}
+  - {t: '1', h: '$$phosphor:regular/bluetooth-slash$$'}
+  - {t: '2', h: '$$phosphor:regular/bluetooth-slash$$'}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
+  - {type: none}
