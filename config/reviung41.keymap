@@ -73,10 +73,10 @@
 
                 symbol_layer { // 3
                         bindings = <
-   &kp LBRC  &kp AMPS &kp ASTRK   &kp LPAR &kp RBRC &none       &none &none &none     &none     &none    &none
-   &kp COLON &kp DLLR &kp PERCENT &kp PLUS &kp PLUS &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
-   &kp TILDE &kp EXCL &kp AT      &kp HASH &kp PIPE &none       &none &none &none     &none     &kp RALT &none
-                                        &kp LPAR &kp RPAR &none &none &none
+   &kp LBRC  &kp AMPS &kp ASTRK   &kp LPAR  &kp RBRC &none       &none &none &none     &none     &none    &none
+   &kp COLON &kp DLLR &kp PERCENT &kp CARET &kp PLUS &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
+   &kp TILDE &kp EXCL &kp AT      &kp HASH  &kp PIPE &none       &none &none &none     &none     &kp RALT &none
+                                         &kp LPAR &kp RPAR &none &none &none
                         >;
                 };
 
