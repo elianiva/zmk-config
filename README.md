@@ -9,7 +9,7 @@ The keyboard is using [joric/nrfmicro](https://github.com/joric/nrfmicro) as the
 
 The keymap can be seen here (generated using [caksoylar/keymap-drawer](https://github.com/caksoylar/keymap-drawer/tree/main)):
 
-![Keymap](./keymap-drawer/reviung.svg)
+![Keymap](./keymap-drawer/reviung41.svg)
 
 The actual picture of the keyboard:
 
