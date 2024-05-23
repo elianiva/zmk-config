@@ -83,6 +83,7 @@ draw_config:
     tabler: https://unpkg.com/@tabler/icons/icons/outline/{}.svg
     mdi: https://raw.githubusercontent.com/Templarian/MaterialDesign-SVG/master/svg/{}.svg
     material: https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/{}/default/48px.svg
+    phosphor: https://unpkg.com/@phosphor-icons/core/assets/{}.svg
 parse_config:
   preprocess: true
   skip_binding_parsing: false
