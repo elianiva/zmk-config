@@ -1,0 +1,108 @@
+
+units:
+  # `U` is a predefined unit of measure that means 19.05mm, which is MX spacing
+  angle: -10
+  # Proxy Spacing Variables
+  kx: cx
+  ky: cy
+  # Padding Variables
+  px: kx + 2
+  py: ky + 2
+points:
+  zones:
+    matrix:
+      rotate: angle
+      mirror: &mirror
+        ref: matrix_inner_top
+        distance: 3U
+      columns:
+        pinky:
+          key:
+            splay: 0.25U
+        ring:
+          key:
+            stagger: 0.35U
+            splay: -0.25U
+            spread: 1.05U
+        middle:
+          key:
+            stagger: 0.35U
+        index:
+          key:
+            stagger: -0.35U
+        inner:
+          key:
+            stagger: -0.25U
+            splay: -0.25U
+      rows:
+        bottom:
+          key:
+            padding: U
+        home:
+          key:
+            padding: U
+        top:
+          key:
+            padding: U
+    thumb_outer:
+      mirror: *mirror
+      anchor:
+        ref: matrix_inner_bottom
+        shift: [0.25U, -1.25U]
+        rotate: angle
+    thumb_inner:
+      mirror: *mirror
+      anchor:
+        ref: thumb_outer
+        shift: [-1.25U, -0.05U]
+        rotate: -angle
+outlines:
+  outer-outline:
+    - what: rectangle
+      where: true
+      size: [cx+20,cy+20]
+      fillet: 2
+  bottom-plate:
+    - outer-outline
+    - what: polygon
+      operation: add
+      points:
+        - ref: matrix_inner_top
+          shift: [0, 0.675px]
+        - ref: mirror_matrix_inner_top
+          shift: [0, 0.675px]
+        - ref: mirror_thumb_outer
+          shift: [0.8px, -0.8px]
+        - ref: thumb_outer
+          shift: [0.8px, -0.8px]
+  middle-plate:
+    - bottom-plate
+    - what: rectangle
+      where: true
+      size: 14
+      operation: subtract
+  outer-top-plate:
+    - middle-plate
+    - what: rectangle
+      where: true
+      size: [px+5, px+5]
+      fillet: 2
+      operation: subtract
+  outer-middle-plate:
+    - middle-plate
+    - what: rectangle
+      where: true
+      size: [px+5, px+5]
+      fillet: 2
+      operation: subtract
+    - what: polygon
+      operation: subtract
+      points:
+        - ref: matrix_inner_top
+          shift: [0, 0.35px]
+        - ref: mirror_matrix_inner_top
+          shift: [0, 0.35px]
+        - ref: mirror_thumb_outer
+          shift: [0.5px, -0.4px]
+        - ref: thumb_outer
+          shift: [0.5px, -0.4px]
