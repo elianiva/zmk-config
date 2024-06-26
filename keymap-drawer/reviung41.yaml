@@ -331,8 +331,50 @@ layers:
   - {t: '1', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {t: '2', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {type: none}
+  - {t: number, h: toggle}
+  - {t: colemak, h: toggle}
   - {type: none}
   - {type: none}
   - {type: none}
+  colemak:
+  - Q
+  - W
+  - F
+  - P
+  - B
   - {type: none}
   - {type: none}
+  - J
+  - L
+  - U
+  - Y
+  - ''''
+  - A
+  - {t: R, h: '$$phosphor:regular/option$$'}
+  - {t: S, h: '$$phosphor:regular/control$$'}
+  - {t: T, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - G
+  - {type: none}
+  - {type: none}
+  - M
+  - {t: N, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - {t: E, h: '$$phosphor:regular/control$$'}
+  - {t: I, h: '$$phosphor:regular/option$$'}
+  - {t: O, h: '$$phosphor:regular/command$$'}
+  - Z
+  - X
+  - C
+  - D
+  - V
+  - {type: none}
+  - {type: none}
+  - K
+  - H
+  - ','
+  - .
+  - /
+  - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
+  - {t: '$$phosphor:regular/arrow-bend-down-left$$', h: mouse}
+  - {type: none}
+  - {t: '$$material:space_bar$$', h: symbol}
+  - {t: '$$phosphor:regular/backspace$$', h: number}

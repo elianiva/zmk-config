@@ -113,17 +113,17 @@
    &none &bt BT_PRV   &bt BT_CLR   &bt BT_NXT     &out OUT_BLE &none       &none &out OUT_USB      &none         &none         &none         &none
    &none &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR_ALL &none        &none       &none &ext_power EP_OFF &bt BT_DISC 3 &bt BT_DISC 4 &none         &none
    &none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2   &none        &none       &none &none             &bt BT_DISC 0 &bt BT_DISC 1 &bt BT_DISC 2 &none
-                                                         &none &none &none &none &none
+                                                       &tog 1 &tog 8 &none &none &none
                         >;
                 };
 
-//                 adjust_layer {
-//                         bindings = <
-//    &rgb_ug RGB_BRI &rgb_ug RGB_SAI &rgb_ug RGB_HUI &rgb_ug RGB_EFF &none &rgb_ug RGB_TOG    &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR
-//    &rgb_ug RGB_BRD &rgb_ug RGB_SAD &rgb_ug RGB_HUD &rgb_ug RGB_EFR &none &none              &none        &none        &none        &none        &none        &none
-//    &none           &none           &none           &none           &none &none              &sys_reset       &none        &none        &none        &none        &none
-//                                                              &trans      &trans       &tog 3        &trans      &trans
-//                         >;
-//                 };
+                colemak_layer { // 8
+                        bindings = <
+   &kp Q  &kp W       &kp F        &kp P        &kp B &none     &none &kp J &kp L        &kp U        &kp Y       &kp QUOT
+   &kp A  &lpi LALT R &lpi LCTRL S &lpi LSHFT T &kp G &none     &none &kp M &rpi RSHFT N &rpi RCTRL E &rpi LALT I &rpi RGUI O
+   &kp Z  &kp X       &kp C        &kp D        &kp V &none     &none &kp K &kp H        &kp COMMA    &kp DOT     &kp FSLH
+                                    &lt 4 TAB &lt 5 ENTER &none &lt 3 SPACE &lt 1 BACKSPACE
+                        >;
+                };
         };
 };
