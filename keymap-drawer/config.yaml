@@ -84,7 +84,7 @@ draw_config:
     mdi: https://raw.githubusercontent.com/Templarian/MaterialDesign-SVG/master/svg/{}.svg
     mdil: https://raw.githubusercontent.com/Pictogrammers/MaterialDesignLight/master/svg/{}.svg
     material: https://fonts.gstatic.com/s/i/short-term/release/materialsymbolsoutlined/{}/default/48px.svg
-    phosphor: "https://unpkg.com/@phosphor-icons/core/assets/{}.svg",
+    phosphor: "https://unpkg.com/@phosphor-icons/core/assets/{}.svg"
   use_local_cache: true
 parse_config:
   preprocess: true

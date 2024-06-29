@@ -331,7 +331,7 @@ layers:
   - {t: '1', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {t: '2', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {type: none}
-  - {t: number, h: toggle}
+  - {t: qwerty, h: toggle}
   - {t: colemak, h: toggle}
   - {type: none}
   - {type: none}
