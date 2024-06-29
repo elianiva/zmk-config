@@ -12,14 +12,14 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 #define QWERTY 0
-#define NUMBER 1
-#define FUNCTION 2
-#define SYMBOL 3
-#define NAV 4
-#define MOUSE 5
-#define MEDIA 6
-#define BLUETOOTH 7
-#define COLEMAK 8
+#define COLEMAK 1
+#define NUMBER 2
+#define FUNCTION 3
+#define SYMBOL 4
+#define NAV 5
+#define MOUSE 6
+#define MEDIA 7
+#define BLUETOOTH 8
 
 &soft_off {
     hold-time-ms = <1000>; // Only turn off it the key is held for 1 seconds or longer.
@@ -64,7 +64,16 @@
                         >;
                 };
 
-                number_layer { // 1
+                colemak_layer { // 1
+                        bindings = <
+   &kp Q  &kp W       &kp F        &kp P        &kp B &none     &none &kp J &kp L        &kp U        &kp Y       &kp QUOT
+   &kp A  &lpi LALT R &lpi LCTRL S &lpi LSHFT T &kp G &none     &none &kp M &rpi RSHFT N &rpi RCTRL E &rpi LALT I &rpi RGUI O
+   &kp Z  &kp X       &kp C        &kp D        &kp V &none     &none &kp K &kp H        &kp COMMA    &kp DOT     &kp FSLH
+                               &lt NAV TAB &lt MOUSE ENTER &none &lt SYMBOL SPACE &lt NUMBER BACKSPACE
+                        >;
+                };
+
+                number_layer { // 2
                         bindings = <
    &kp LBKT  &kp N7 &kp N8 &kp N9 &kp RBKT  &none       &none &soft_off &none     &none     &none    &lt FUNCTION DELETE
    &kp SEMI  &kp N4 &kp N5 &kp N6 &kp EQUAL &none       &none &none     &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
@@ -73,7 +82,7 @@
                         >;
                 };
 
-                function_layer { // 2
+                function_layer { // 3
                         bindings = <
    &kp F12 &kp F7 &kp F8 &kp F9 &kp PSCRN &none       &none &none &none     &none     &none    &none
    &kp F11 &kp F4 &kp F5 &kp F6 &none     &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
@@ -82,7 +91,7 @@
                         >;
                 };
 
-                symbol_layer { // 3
+                symbol_layer { // 4
                         bindings = <
    &kp LBRC  &kp AMPS &kp ASTRK   &kp LPAR  &kp RBRC &none       &none &none &none     &none     &none    &none
    &kp COLON &kp DLLR &kp PERCENT &kp CARET &kp PLUS &none       &none &none &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
@@ -91,7 +100,7 @@
                         >;
                 };
 
-                nav_layer { // 4
+                nav_layer { // 5
                         bindings = <
    &lt MEDIA ESC &none    &none     &none     &none &none       &none &none    &kp K_PASTE &kp K_COPY &kp K_CUT &caps_word
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp LEFT &kp DOWN    &kp UP     &kp RIGHT &kp CAPS
@@ -100,7 +109,7 @@
                         >;
                 };
 
-                mouse_layer { // 5
+                mouse_layer { // 6
                         bindings = <
    &none     &none    &none     &none     &none &none       &none &mkp MCLK      &kp K_PASTE    &kp K_COPY   &kp K_CUT       &none
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &mmv MOVE_LEFT &mmv MOVE_DOWN &mmv MOVE_UP &mmv MOVE_RIGHT &none
@@ -109,7 +118,7 @@
                         >;
                 };
 
-                media_layer { // 6
+                media_layer { // 7
                         bindings = <
    &none     &none    &none     &none     &none &none       &none &none       &kp C_MUTE   &none        &none      &none
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp C_PREV  &kp C_VOL_DN &kp C_VOL_UP &kp C_NEXT &none
@@ -118,21 +127,12 @@
                         >;
                 };
 
-                bluetooth_layer { // 7
+                bluetooth_layer { // 8
                         bindings = <
    &none &bt BT_PRV   &bt BT_CLR   &bt BT_NXT     &out OUT_BLE &none       &none &out OUT_USB      &none         &none         &none         &none
    &none &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR_ALL &none        &none       &none &ext_power EP_OFF &bt BT_DISC 3 &bt BT_DISC 4 &none         &none
    &none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2   &none        &none       &none &none             &bt BT_DISC 0 &bt BT_DISC 1 &bt BT_DISC 2 &none
                                               &to QWERTY &to COLEMAK &none &none &none
-                        >;
-                };
-
-                colemak_layer { // 8
-                        bindings = <
-   &kp Q  &kp W       &kp F        &kp P        &kp B &none     &none &kp J &kp L        &kp U        &kp Y       &kp QUOT
-   &kp A  &lpi LALT R &lpi LCTRL S &lpi LSHFT T &kp G &none     &none &kp M &rpi RSHFT N &rpi RCTRL E &rpi LALT I &rpi RGUI O
-   &kp Z  &kp X       &kp C        &kp D        &kp V &none     &none &kp K &kp H        &kp COMMA    &kp DOT     &kp FSLH
-                               &lt NAV TAB &lt MOUSE ENTER &none &lt SYMBOL SPACE &lt NUMBER BACKSPACE
                         >;
                 };
         };
