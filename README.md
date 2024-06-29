@@ -14,3 +14,5 @@ The keymap can be seen here (generated using [caksoylar/keymap-drawer](https://g
 The actual picture of the keyboard:
 
 ![Keyboard](./keymap-drawer/reviung-photo.jpg)
+
+![Keyboard Alt](./keymap-drawer/reviung-new.jpg)
