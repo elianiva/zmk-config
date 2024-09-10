@@ -12,7 +12,7 @@
 #include <dt-bindings/zmk/ext_power.h>
 
 #define QWERTY 0
-#define COLEMAK 1
+#define GAMING 1
 #define NUMBER 2
 #define FUNCTION 3
 #define SYMBOL 4
@@ -64,14 +64,23 @@
                         >;
                 };
 
-                colemak_layer { // 1
+                gaming_layer { // 1
                         bindings = <
-   &kp Q  &kp W       &kp F        &kp P        &kp B &none     &none &kp J &kp L        &kp U        &kp Y       &kp QUOT
-   &kp A  &lpi LALT R &lpi LCTRL S &lpi LSHFT T &kp G &none     &none &kp M &rpi RSHFT N &rpi RCTRL E &rpi LALT I &rpi RGUI O
-   &kp Z  &kp X       &kp C        &kp D        &kp V &none     &none &kp K &kp H        &kp COMMA    &kp DOT     &kp FSLH
-                               &lt NAV TAB &lt MOUSE ENTER &none &lt SYMBOL SPACE &lt NUMBER BACKSPACE
+   &kp Q  &kp W  &kp E  &kp R  &kp T &none          &none &kp Y &kp U &kp I      &kp O    &kp P
+   &kp A  &kp S  &kp D  &kp F  &kp G &none          &none &kp H &kp J &kp K      &kp L    &kp QUOT
+   &kp Z  &kp X  &kp C  &kp V  &kp B &none          &none &kp N &kp M &kp COMMA  &kp DOT  &kp FSLH
+                               &lt NAV TAB &kp SPACE &none &kp ENTER &lt NUMBER BACKSPACE
                         >;
                 };
+
+//                 colemak_layer { // 1
+//                         bindings = <
+//    &kp Q  &kp W       &kp F        &kp P        &kp B &none     &none &kp J &kp L        &kp U        &kp Y       &kp QUOT
+//    &kp A  &lpi LALT R &lpi LCTRL S &lpi LSHFT T &kp G &none     &none &kp M &rpi RSHFT N &rpi RCTRL E &rpi LALT I &rpi RGUI O
+//    &kp Z  &kp X       &kp C        &kp D        &kp V &none     &none &kp K &kp H        &kp COMMA    &kp DOT     &kp FSLH
+//                                &lt NAV TAB &lt MOUSE ENTER &none &lt SYMBOL SPACE &lt NUMBER BACKSPACE
+//                         >;
+//                 };
 
                 number_layer { // 2
                         bindings = <
@@ -132,7 +141,7 @@
    &none &bt BT_PRV   &bt BT_CLR   &bt BT_NXT     &out OUT_BLE &none       &none &out OUT_USB      &none         &none         &none         &none
    &none &bt BT_SEL 3 &bt BT_SEL 4 &bt BT_CLR_ALL &none        &none       &none &ext_power EP_OFF &bt BT_DISC 3 &bt BT_DISC 4 &none         &none
    &none &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2   &none        &none       &none &none             &bt BT_DISC 0 &bt BT_DISC 1 &bt BT_DISC 2 &none
-                                              &to QWERTY &to COLEMAK &none &none &none
+                                              &to QWERTY &to GAMING &none &none &none
                         >;
                 };
         };
