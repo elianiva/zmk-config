@@ -42,6 +42,48 @@ layers:
   - {type: none}
   - {t: '$$material:space_bar$$', h: symbol}
   - {t: '$$phosphor:regular/backspace$$', h: number}
+  gaming:
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - {type: none}
+  - {type: none}
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - A
+  - S
+  - D
+  - F
+  - G
+  - {type: none}
+  - {type: none}
+  - H
+  - J
+  - K
+  - L
+  - ''''
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - {type: none}
+  - {type: none}
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
+  - $$material:space_bar$$
+  - {type: none}
+  - $$phosphor:regular/arrow-bend-down-left$$
+  - {t: '$$phosphor:regular/backspace$$', h: number}
   number:
   - '['
   - '7'
@@ -78,7 +120,7 @@ layers:
   - {type: none}
   - {type: none}
   - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
-  - {h: bluetooth}
+  - bluetooth
   - '0'
   - '-'
   - {type: none}
@@ -169,7 +211,7 @@ layers:
   - {type: held}
   - {type: none}
   nav:
-  - {t: '$$phosphor:regular/sign-out$$', h: media}
+  - $$phosphor:regular/sign-out$$
   - {type: none}
   - {type: none}
   - {type: none}
@@ -253,7 +295,7 @@ layers:
   - $$phosphor:regular/mouse-left-click$$
   - $$phosphor:regular/mouse-right-click$$
   media:
-  - {type: held}
+  - {type: none}
   - {type: none}
   - {type: none}
   - {type: none}
@@ -289,7 +331,7 @@ layers:
   - $$phosphor:regular/sun$$
   - {type: none}
   - {type: none}
-  - {type: held}
+  - {type: none}
   - {type: none}
   - {type: none}
   - $$phosphor:regular/play-pause$$
@@ -330,51 +372,9 @@ layers:
   - {t: '0', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {t: '1', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {t: '2', h: '$$phosphor:regular/bluetooth-slash$$'}
-  - {type: none}
+  - {type: held}
   - {t: qwerty, h: toggle}
-  - {t: colemak, h: toggle}
+  - {t: gaming, h: toggle}
   - {type: none}
   - {type: none}
-  - {type: none}
-  colemak:
-  - Q
-  - W
-  - F
-  - P
-  - B
-  - {type: none}
-  - {type: none}
-  - J
-  - L
-  - U
-  - Y
-  - ''''
-  - A
-  - {t: R, h: '$$phosphor:regular/option$$'}
-  - {t: S, h: '$$phosphor:regular/control$$'}
-  - {t: T, h: '$$phosphor:regular/arrow-fat-up$$'}
-  - G
-  - {type: none}
-  - {type: none}
-  - M
-  - {t: N, h: '$$phosphor:regular/arrow-fat-up$$'}
-  - {t: E, h: '$$phosphor:regular/control$$'}
-  - {t: I, h: '$$phosphor:regular/option$$'}
-  - {t: O, h: '$$phosphor:regular/command$$'}
-  - Z
-  - X
-  - C
-  - D
-  - V
-  - {type: none}
-  - {type: none}
-  - K
-  - H
-  - ','
-  - .
-  - /
-  - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
-  - {t: '$$phosphor:regular/arrow-bend-down-left$$', h: mouse}
-  - {type: none}
-  - {t: '$$material:space_bar$$', h: symbol}
-  - {t: '$$phosphor:regular/backspace$$', h: number}
+  - {type: held}
