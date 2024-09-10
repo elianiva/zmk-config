@@ -523,1368 +523,7 @@ rect.key.held {
 </g>
 </g>
 </g>
-<g transform="translate(30, 347)" class="layer-number">
-<text x="0" y="28" class="label">number</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">[</text>
-</g>
-<g transform="translate(96, 55)" class="key keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">7</text>
-</g>
-<g transform="translate(160, 44)" class="key keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">8</text>
-</g>
-<g transform="translate(224, 32)" class="key keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">9</text>
-</g>
-<g transform="translate(288, 44)" class="key keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">]</text>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/power" xlink:href="#phosphor:regular/power" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/power"/>
-</g>
-<g transform="translate(608, 32)" class="key none keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 44)" class="key none keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 55)" class="key none keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 67)" class="key keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/trash" xlink:href="#phosphor:regular/trash" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/trash"/>
-<text x="0" y="26" class="key hold"><tspan style="font-size: 88%">function</tspan></text>
-</g>
-<g transform="translate(32, 131)" class="key keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">;</text>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">4</text>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">5</text>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">6</text>
-</g>
-<g transform="translate(288, 108)" class="key keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">=</text>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key none keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
-</g>
-<g transform="translate(736, 119)" class="key keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-</g>
-<g transform="translate(800, 131)" class="key keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
-</g>
-<g transform="translate(32, 195)" class="key keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">`</text>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">1</text>
-</g>
-<g transform="translate(160, 172)" class="key keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">2</text>
-</g>
-<g transform="translate(224, 160)" class="key keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">3</text>
-</g>
-<g transform="translate(288, 172)" class="key keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">\</text>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key none keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 160)" class="key none keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 172)" class="key none keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 183)" class="key keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
-</g>
-<g transform="translate(800, 195)" class="key keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="26" class="key hold"><tspan style="font-size: 78%">bluetooth</tspan></text>
-</g>
-<g transform="translate(224, 259)" class="key keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">0</text>
-</g>
-<g transform="translate(304, 259)" class="key keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">-</text>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key none keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 259)" class="key held keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 693)" class="layer-function">
-<text x="0" y="28" class="label">function</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F12</text>
-</g>
-<g transform="translate(96, 55)" class="key keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F7</text>
-</g>
-<g transform="translate(160, 44)" class="key keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F8</text>
-</g>
-<g transform="translate(224, 32)" class="key keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F9</text>
-</g>
-<g transform="translate(288, 44)" class="key keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/crop" xlink:href="#phosphor:regular/crop" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/crop"/>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key none keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 32)" class="key none keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 44)" class="key none keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 55)" class="key none keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 67)" class="key held keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key held"/>
-</g>
-<g transform="translate(32, 131)" class="key keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F11</text>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F4</text>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F5</text>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F6</text>
-</g>
-<g transform="translate(288, 108)" class="key none keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key none keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
-</g>
-<g transform="translate(736, 119)" class="key keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-</g>
-<g transform="translate(800, 131)" class="key keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
-</g>
-<g transform="translate(32, 195)" class="key keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F10</text>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F1</text>
-</g>
-<g transform="translate(160, 172)" class="key keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F2</text>
-</g>
-<g transform="translate(224, 160)" class="key keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">F3</text>
-</g>
-<g transform="translate(288, 172)" class="key none keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key none keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 160)" class="key none keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 172)" class="key none keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 183)" class="key keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
-</g>
-<g transform="translate(800, 195)" class="key none keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 259)" class="key keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">0</text>
-</g>
-<g transform="translate(304, 259)" class="key keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">-</text>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key none keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 259)" class="key held keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 1040)" class="layer-symbol">
-<text x="0" y="28" class="label">symbol</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">{</text>
-</g>
-<g transform="translate(96, 55)" class="key keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">&amp;</text>
-</g>
-<g transform="translate(160, 44)" class="key keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">*</text>
-</g>
-<g transform="translate(224, 32)" class="key keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">(</text>
-</g>
-<g transform="translate(288, 44)" class="key keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">}</text>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key none keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 32)" class="key none keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 44)" class="key none keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 55)" class="key none keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 67)" class="key none keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 131)" class="key keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">:</text>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">$</text>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">%</text>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">^</text>
-</g>
-<g transform="translate(288, 108)" class="key keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">+</text>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key none keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
-</g>
-<g transform="translate(736, 119)" class="key keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-</g>
-<g transform="translate(800, 131)" class="key keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
-</g>
-<g transform="translate(32, 195)" class="key keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">~</text>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">!</text>
-</g>
-<g transform="translate(160, 172)" class="key keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">@</text>
-</g>
-<g transform="translate(224, 160)" class="key keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">#</text>
-</g>
-<g transform="translate(288, 172)" class="key keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">|</text>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key none keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 160)" class="key none keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 172)" class="key none keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 183)" class="key keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
-</g>
-<g transform="translate(800, 195)" class="key none keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 259)" class="key keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">(</text>
-</g>
-<g transform="translate(304, 259)" class="key keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">)</text>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key held keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
-</g>
-<g transform="translate(608, 259)" class="key none keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 1386)" class="layer-nav">
-<text x="0" y="28" class="label">nav</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/sign-out" xlink:href="#phosphor:regular/sign-out" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/sign-out"/>
-<text x="0" y="26" class="key hold">media</text>
-</g>
-<g transform="translate(96, 55)" class="key none keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(160, 44)" class="key none keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 32)" class="key none keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(288, 44)" class="key none keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key none keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 32)" class="key keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/clipboard" xlink:href="#phosphor:regular/clipboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/clipboard"/>
-</g>
-<g transform="translate(672, 44)" class="key keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/copy" xlink:href="#phosphor:regular/copy" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/copy"/>
-</g>
-<g transform="translate(736, 55)" class="key keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/scissors" xlink:href="#phosphor:regular/scissors" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/scissors"/>
-</g>
-<g transform="translate(800, 67)" class="key keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-line-up" xlink:href="#phosphor:regular/arrow-fat-line-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-line-up"/>
-<text x="0" y="-26" class="key shifted">word</text>
-</g>
-<g transform="translate(32, 131)" class="key keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
-</g>
-<g transform="translate(288, 108)" class="key none keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-left" xlink:href="#phosphor:regular/arrow-left" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-left"/>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-down" xlink:href="#phosphor:regular/arrow-down" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-down"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-up" xlink:href="#phosphor:regular/arrow-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-up"/>
-</g>
-<g transform="translate(736, 119)" class="key keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-right" xlink:href="#phosphor:regular/arrow-right" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-right"/>
-</g>
-<g transform="translate(800, 131)" class="key keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-line-up" xlink:href="#phosphor:regular/arrow-fat-line-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-line-up"/>
-</g>
-<g transform="translate(32, 195)" class="key none keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
-</g>
-<g transform="translate(160, 172)" class="key none keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 160)" class="key none keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(288, 172)" class="key none keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/caret-line-left" xlink:href="#phosphor:regular/caret-line-left" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-left"/>
-</g>
-<g transform="translate(608, 160)" class="key keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/caret-line-down" xlink:href="#phosphor:regular/caret-line-down" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-down"/>
-</g>
-<g transform="translate(672, 172)" class="key keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/caret-line-up" xlink:href="#phosphor:regular/caret-line-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-up"/>
-</g>
-<g transform="translate(736, 183)" class="key keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/caret-line-right" xlink:href="#phosphor:regular/caret-line-right" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-right"/>
-</g>
-<g transform="translate(800, 195)" class="key keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/download-simple" xlink:href="#phosphor:regular/download-simple" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/download-simple"/>
-</g>
-<g transform="translate(224, 259)" class="key held keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
-</g>
-<g transform="translate(304, 259)" class="key none keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<use href="#material:space_bar" xlink:href="#material:space_bar" x="-7" y="-11" height="14" width="14.0" class="key tap glyph material:space_bar"/>
-</g>
-<g transform="translate(608, 259)" class="key keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<use href="#phosphor:regular/backspace" xlink:href="#phosphor:regular/backspace" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/backspace"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 1733)" class="layer-mouse">
-<text x="0" y="28" class="label">mouse</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key none keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 55)" class="key none keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(160, 44)" class="key none keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 32)" class="key none keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(288, 44)" class="key none keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-middle-click" xlink:href="#phosphor:regular/mouse-middle-click" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-middle-click"/>
-</g>
-<g transform="translate(608, 32)" class="key keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/clipboard" xlink:href="#phosphor:regular/clipboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/clipboard"/>
-</g>
-<g transform="translate(672, 44)" class="key keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/copy" xlink:href="#phosphor:regular/copy" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/copy"/>
-</g>
-<g transform="translate(736, 55)" class="key keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/scissors" xlink:href="#phosphor:regular/scissors" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/scissors"/>
-</g>
-<g transform="translate(800, 67)" class="key none keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 131)" class="key keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
-</g>
-<g transform="translate(288, 108)" class="key none keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
-<use href="#phosphor:regular/caret-double-left" xlink:href="#phosphor:regular/caret-double-left" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-left"/>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
-<use href="#phosphor:regular/caret-double-down" xlink:href="#phosphor:regular/caret-double-down" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-down"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
-<use href="#phosphor:regular/caret-double-up" xlink:href="#phosphor:regular/caret-double-up" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-up"/>
-</g>
-<g transform="translate(736, 119)" class="key keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
-<use href="#phosphor:regular/caret-double-right" xlink:href="#phosphor:regular/caret-double-right" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-right"/>
-</g>
-<g transform="translate(800, 131)" class="key none keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 195)" class="key none keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
-</g>
-<g transform="translate(160, 172)" class="key none keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 160)" class="key none keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(288, 172)" class="key none keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
-<use href="#phosphor:regular/caret-double-left" xlink:href="#phosphor:regular/caret-double-left" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-left"/>
-</g>
-<g transform="translate(608, 160)" class="key keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
-<use href="#phosphor:regular/caret-double-down" xlink:href="#phosphor:regular/caret-double-down" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-down"/>
-</g>
-<g transform="translate(672, 172)" class="key keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
-<use href="#phosphor:regular/caret-double-up" xlink:href="#phosphor:regular/caret-double-up" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-up"/>
-</g>
-<g transform="translate(736, 183)" class="key keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
-<use href="#phosphor:regular/caret-double-right" xlink:href="#phosphor:regular/caret-double-right" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-right"/>
-</g>
-<g transform="translate(800, 195)" class="key none keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 259)" class="key none keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-<g transform="translate(304, 259)" class="key held keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-left-click" xlink:href="#phosphor:regular/mouse-left-click" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-left-click"/>
-</g>
-<g transform="translate(608, 259)" class="key keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<use href="#phosphor:regular/mouse-right-click" xlink:href="#phosphor:regular/mouse-right-click" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-right-click"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 2079)" class="layer-media">
-<text x="0" y="28" class="label">media</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key held keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key held"/>
-</g>
-<g transform="translate(96, 55)" class="key none keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(160, 44)" class="key none keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 32)" class="key none keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(288, 44)" class="key none keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key none keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 32)" class="key keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/speaker-simple-x" xlink:href="#phosphor:regular/speaker-simple-x" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/speaker-simple-x"/>
-</g>
-<g transform="translate(672, 44)" class="key none keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 55)" class="key none keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 67)" class="key none keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 131)" class="key keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
-</g>
-<g transform="translate(288, 108)" class="key none keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/skip-back" xlink:href="#phosphor:regular/skip-back" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-back"/>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/speaker-simple-low" xlink:href="#phosphor:regular/speaker-simple-low" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/speaker-simple-low"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/speaker-simple-high" xlink:href="#phosphor:regular/speaker-simple-high" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/speaker-simple-high"/>
-</g>
-<g transform="translate(736, 119)" class="key keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/skip-forward" xlink:href="#phosphor:regular/skip-forward" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-forward"/>
-</g>
-<g transform="translate(800, 131)" class="key none keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 195)" class="key none keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
-<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
-</g>
-<g transform="translate(160, 172)" class="key none keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 160)" class="key none keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(288, 172)" class="key none keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key none keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 160)" class="key keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/sun-dim" xlink:href="#phosphor:regular/sun-dim" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/sun-dim"/>
-</g>
-<g transform="translate(672, 172)" class="key keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/sun" xlink:href="#phosphor:regular/sun" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/sun"/>
-</g>
-<g transform="translate(736, 183)" class="key none keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 195)" class="key none keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 259)" class="key held keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
-</g>
-<g transform="translate(304, 259)" class="key none keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<use href="#phosphor:regular/play-pause" xlink:href="#phosphor:regular/play-pause" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/play-pause"/>
-</g>
-<g transform="translate(608, 259)" class="key keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<use href="#phosphor:regular/stop" xlink:href="#phosphor:regular/stop" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/stop"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 2426)" class="layer-bluetooth">
-<text x="0" y="28" class="label">bluetooth</text>
-<g transform="translate(0, 56)">
-<g transform="translate(32, 67)" class="key none keypos-0">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 55)" class="key keypos-1">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/skip-back" xlink:href="#phosphor:regular/skip-back" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-back"/>
-<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
-</g>
-<g transform="translate(160, 44)" class="key keypos-2">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/trash-simple" xlink:href="#phosphor:regular/trash-simple" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/trash-simple"/>
-<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
-</g>
-<g transform="translate(224, 32)" class="key keypos-3">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/skip-forward" xlink:href="#phosphor:regular/skip-forward" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-forward"/>
-<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
-</g>
-<g transform="translate(288, 44)" class="key keypos-4">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/keyboard" xlink:href="#phosphor:regular/keyboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/keyboard"/>
-<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/bluetooth"/>
-</g>
-<g transform="translate(352, 55)" class="key none keypos-5">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 55)" class="key none keypos-6">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 44)" class="key keypos-7">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/keyboard" xlink:href="#phosphor:regular/keyboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/keyboard"/>
-<use href="#phosphor:regular/usb" xlink:href="#phosphor:regular/usb" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/usb"/>
-</g>
-<g transform="translate(608, 32)" class="key none keypos-8">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(672, 44)" class="key none keypos-9">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(736, 55)" class="key none keypos-10">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 67)" class="key none keypos-11">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 131)" class="key none keypos-12">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 119)" class="key keypos-13">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">3</text>
-<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
-</g>
-<g transform="translate(160, 108)" class="key keypos-14">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">4</text>
-<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
-</g>
-<g transform="translate(224, 96)" class="key keypos-15">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<use href="#phosphor:regular/trash" xlink:href="#phosphor:regular/trash" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/trash"/>
-<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
-</g>
-<g transform="translate(288, 108)" class="key none keypos-16">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 119)" class="key none keypos-17">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 119)" class="key none keypos-18">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 108)" class="key keypos-19">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">
-<tspan x="0" dy="-0.5em">EP</tspan><tspan x="0" dy="1.0em">OFF</tspan>
-</text>
-</g>
-<g transform="translate(608, 96)" class="key keypos-20">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">3</text>
-<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
-</g>
-<g transform="translate(672, 108)" class="key keypos-21">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">4</text>
-<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
-</g>
-<g transform="translate(736, 119)" class="key none keypos-22">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(800, 131)" class="key none keypos-23">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(32, 195)" class="key none keypos-24">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(96, 183)" class="key keypos-25">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">0</text>
-<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
-</g>
-<g transform="translate(160, 172)" class="key keypos-26">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">1</text>
-<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
-</g>
-<g transform="translate(224, 160)" class="key keypos-27">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">2</text>
-<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
-</g>
-<g transform="translate(288, 172)" class="key none keypos-28">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(352, 183)" class="key none keypos-29">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(480, 183)" class="key none keypos-30">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(544, 172)" class="key none keypos-31">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 160)" class="key keypos-32">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">0</text>
-<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
-</g>
-<g transform="translate(672, 172)" class="key keypos-33">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">1</text>
-<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
-</g>
-<g transform="translate(736, 183)" class="key keypos-34">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">2</text>
-<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
-</g>
-<g transform="translate(800, 195)" class="key none keypos-35">
-<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
-</g>
-<g transform="translate(224, 259)" class="key keypos-36">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">qwerty</text>
-<text x="0" y="26" class="key hold">toggle</text>
-</g>
-<g transform="translate(304, 259)" class="key keypos-37">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
-<text x="0" y="-4" class="key tap">colemak</text>
-<text x="0" y="26" class="key hold">toggle</text>
-</g>
-<g transform="translate(416, 259)" class="key none keypos-38">
-<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
-</g>
-<g transform="translate(528, 259)" class="key none keypos-39">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-<g transform="translate(608, 259)" class="key none keypos-40">
-<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
-<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
-</g>
-</g>
-</g>
-<g transform="translate(30, 2772)" class="layer-colemak">
+<g transform="translate(30, 347)" class="layer-colemak">
 <text x="0" y="28" class="label">colemak</text>
 <g transform="translate(0, 56)">
 <g transform="translate(32, 67)" class="key keypos-0">
@@ -2095,6 +734,1366 @@ rect.key.held {
 <rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
 <use href="#phosphor:regular/backspace" xlink:href="#phosphor:regular/backspace" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/backspace"/>
 <text x="0" y="26" class="key hold">number</text>
+</g>
+</g>
+</g>
+<g transform="translate(30, 693)" class="layer-number">
+<text x="0" y="28" class="label">number</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">[</text>
+</g>
+<g transform="translate(96, 55)" class="key keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">7</text>
+</g>
+<g transform="translate(160, 44)" class="key keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">8</text>
+</g>
+<g transform="translate(224, 32)" class="key keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">9</text>
+</g>
+<g transform="translate(288, 44)" class="key keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">]</text>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/power" xlink:href="#phosphor:regular/power" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/power"/>
+</g>
+<g transform="translate(608, 32)" class="key none keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 44)" class="key none keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 55)" class="key none keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 67)" class="key keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/trash" xlink:href="#phosphor:regular/trash" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/trash"/>
+<text x="0" y="26" class="key hold"><tspan style="font-size: 88%">function</tspan></text>
+</g>
+<g transform="translate(32, 131)" class="key keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">;</text>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">4</text>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">5</text>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">6</text>
+</g>
+<g transform="translate(288, 108)" class="key keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">=</text>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key none keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
+</g>
+<g transform="translate(736, 119)" class="key keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+</g>
+<g transform="translate(800, 131)" class="key keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
+</g>
+<g transform="translate(32, 195)" class="key keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">`</text>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">1</text>
+</g>
+<g transform="translate(160, 172)" class="key keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">2</text>
+</g>
+<g transform="translate(224, 160)" class="key keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">3</text>
+</g>
+<g transform="translate(288, 172)" class="key keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">\</text>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key none keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 160)" class="key none keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 172)" class="key none keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 183)" class="key keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
+</g>
+<g transform="translate(800, 195)" class="key keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap"><tspan style="font-size: 78%">bluetooth</tspan></text>
+</g>
+<g transform="translate(224, 259)" class="key keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">0</text>
+</g>
+<g transform="translate(304, 259)" class="key keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">-</text>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key none keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 259)" class="key held keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
+</g>
+</g>
+</g>
+<g transform="translate(30, 1040)" class="layer-function">
+<text x="0" y="28" class="label">function</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F12</text>
+</g>
+<g transform="translate(96, 55)" class="key keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F7</text>
+</g>
+<g transform="translate(160, 44)" class="key keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F8</text>
+</g>
+<g transform="translate(224, 32)" class="key keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F9</text>
+</g>
+<g transform="translate(288, 44)" class="key keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/crop" xlink:href="#phosphor:regular/crop" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/crop"/>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key none keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 32)" class="key none keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 44)" class="key none keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 55)" class="key none keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 67)" class="key held keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key held"/>
+</g>
+<g transform="translate(32, 131)" class="key keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F11</text>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F4</text>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F5</text>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F6</text>
+</g>
+<g transform="translate(288, 108)" class="key none keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key none keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
+</g>
+<g transform="translate(736, 119)" class="key keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+</g>
+<g transform="translate(800, 131)" class="key keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
+</g>
+<g transform="translate(32, 195)" class="key keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F10</text>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F1</text>
+</g>
+<g transform="translate(160, 172)" class="key keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F2</text>
+</g>
+<g transform="translate(224, 160)" class="key keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">F3</text>
+</g>
+<g transform="translate(288, 172)" class="key none keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key none keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 160)" class="key none keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 172)" class="key none keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 183)" class="key keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
+</g>
+<g transform="translate(800, 195)" class="key none keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 259)" class="key keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">0</text>
+</g>
+<g transform="translate(304, 259)" class="key keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">-</text>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key none keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 259)" class="key held keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
+</g>
+</g>
+</g>
+<g transform="translate(30, 1386)" class="layer-symbol">
+<text x="0" y="28" class="label">symbol</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">{</text>
+</g>
+<g transform="translate(96, 55)" class="key keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">&amp;</text>
+</g>
+<g transform="translate(160, 44)" class="key keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">*</text>
+</g>
+<g transform="translate(224, 32)" class="key keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">(</text>
+</g>
+<g transform="translate(288, 44)" class="key keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">}</text>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key none keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 32)" class="key none keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 44)" class="key none keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 55)" class="key none keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 67)" class="key none keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 131)" class="key keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">:</text>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">$</text>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">%</text>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">^</text>
+</g>
+<g transform="translate(288, 108)" class="key keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">+</text>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key none keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
+</g>
+<g transform="translate(736, 119)" class="key keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+</g>
+<g transform="translate(800, 131)" class="key keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
+</g>
+<g transform="translate(32, 195)" class="key keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">~</text>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">!</text>
+</g>
+<g transform="translate(160, 172)" class="key keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">@</text>
+</g>
+<g transform="translate(224, 160)" class="key keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">#</text>
+</g>
+<g transform="translate(288, 172)" class="key keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">|</text>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key none keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 160)" class="key none keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 172)" class="key none keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 183)" class="key keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
+</g>
+<g transform="translate(800, 195)" class="key none keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 259)" class="key keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">(</text>
+</g>
+<g transform="translate(304, 259)" class="key keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">)</text>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key held keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
+</g>
+<g transform="translate(608, 259)" class="key none keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+</g>
+</g>
+<g transform="translate(30, 1733)" class="layer-nav">
+<text x="0" y="28" class="label">nav</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/sign-out" xlink:href="#phosphor:regular/sign-out" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/sign-out"/>
+</g>
+<g transform="translate(96, 55)" class="key none keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(160, 44)" class="key none keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 32)" class="key none keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(288, 44)" class="key none keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key none keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 32)" class="key keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/clipboard" xlink:href="#phosphor:regular/clipboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/clipboard"/>
+</g>
+<g transform="translate(672, 44)" class="key keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/copy" xlink:href="#phosphor:regular/copy" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/copy"/>
+</g>
+<g transform="translate(736, 55)" class="key keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/scissors" xlink:href="#phosphor:regular/scissors" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/scissors"/>
+</g>
+<g transform="translate(800, 67)" class="key keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-line-up" xlink:href="#phosphor:regular/arrow-fat-line-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-line-up"/>
+<text x="0" y="-26" class="key shifted">word</text>
+</g>
+<g transform="translate(32, 131)" class="key keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
+</g>
+<g transform="translate(288, 108)" class="key none keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-left" xlink:href="#phosphor:regular/arrow-left" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-left"/>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-down" xlink:href="#phosphor:regular/arrow-down" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-down"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-up" xlink:href="#phosphor:regular/arrow-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-up"/>
+</g>
+<g transform="translate(736, 119)" class="key keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-right" xlink:href="#phosphor:regular/arrow-right" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-right"/>
+</g>
+<g transform="translate(800, 131)" class="key keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-line-up" xlink:href="#phosphor:regular/arrow-fat-line-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-line-up"/>
+</g>
+<g transform="translate(32, 195)" class="key none keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
+</g>
+<g transform="translate(160, 172)" class="key none keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 160)" class="key none keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(288, 172)" class="key none keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/caret-line-left" xlink:href="#phosphor:regular/caret-line-left" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-left"/>
+</g>
+<g transform="translate(608, 160)" class="key keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/caret-line-down" xlink:href="#phosphor:regular/caret-line-down" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-down"/>
+</g>
+<g transform="translate(672, 172)" class="key keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/caret-line-up" xlink:href="#phosphor:regular/caret-line-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-up"/>
+</g>
+<g transform="translate(736, 183)" class="key keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/caret-line-right" xlink:href="#phosphor:regular/caret-line-right" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/caret-line-right"/>
+</g>
+<g transform="translate(800, 195)" class="key keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/download-simple" xlink:href="#phosphor:regular/download-simple" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/download-simple"/>
+</g>
+<g transform="translate(224, 259)" class="key held keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
+</g>
+<g transform="translate(304, 259)" class="key none keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<use href="#material:space_bar" xlink:href="#material:space_bar" x="-7" y="-11" height="14" width="14.0" class="key tap glyph material:space_bar"/>
+</g>
+<g transform="translate(608, 259)" class="key keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<use href="#phosphor:regular/backspace" xlink:href="#phosphor:regular/backspace" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/backspace"/>
+</g>
+</g>
+</g>
+<g transform="translate(30, 2079)" class="layer-mouse">
+<text x="0" y="28" class="label">mouse</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key none keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 55)" class="key none keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(160, 44)" class="key none keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 32)" class="key none keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(288, 44)" class="key none keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-middle-click" xlink:href="#phosphor:regular/mouse-middle-click" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-middle-click"/>
+</g>
+<g transform="translate(608, 32)" class="key keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/clipboard" xlink:href="#phosphor:regular/clipboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/clipboard"/>
+</g>
+<g transform="translate(672, 44)" class="key keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/copy" xlink:href="#phosphor:regular/copy" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/copy"/>
+</g>
+<g transform="translate(736, 55)" class="key keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/scissors" xlink:href="#phosphor:regular/scissors" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/scissors"/>
+</g>
+<g transform="translate(800, 67)" class="key none keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 131)" class="key keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
+</g>
+<g transform="translate(288, 108)" class="key none keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
+<use href="#phosphor:regular/caret-double-left" xlink:href="#phosphor:regular/caret-double-left" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-left"/>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
+<use href="#phosphor:regular/caret-double-down" xlink:href="#phosphor:regular/caret-double-down" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-down"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
+<use href="#phosphor:regular/caret-double-up" xlink:href="#phosphor:regular/caret-double-up" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-up"/>
+</g>
+<g transform="translate(736, 119)" class="key keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse" xlink:href="#phosphor:regular/mouse" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse"/>
+<use href="#phosphor:regular/caret-double-right" xlink:href="#phosphor:regular/caret-double-right" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-right"/>
+</g>
+<g transform="translate(800, 131)" class="key none keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 195)" class="key none keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
+</g>
+<g transform="translate(160, 172)" class="key none keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 160)" class="key none keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(288, 172)" class="key none keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
+<use href="#phosphor:regular/caret-double-left" xlink:href="#phosphor:regular/caret-double-left" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-left"/>
+</g>
+<g transform="translate(608, 160)" class="key keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
+<use href="#phosphor:regular/caret-double-down" xlink:href="#phosphor:regular/caret-double-down" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-down"/>
+</g>
+<g transform="translate(672, 172)" class="key keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
+<use href="#phosphor:regular/caret-double-up" xlink:href="#phosphor:regular/caret-double-up" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-up"/>
+</g>
+<g transform="translate(736, 183)" class="key keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-scroll" xlink:href="#phosphor:regular/mouse-scroll" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-scroll"/>
+<use href="#phosphor:regular/caret-double-right" xlink:href="#phosphor:regular/caret-double-right" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/caret-double-right"/>
+</g>
+<g transform="translate(800, 195)" class="key none keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 259)" class="key none keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(304, 259)" class="key held keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-left-click" xlink:href="#phosphor:regular/mouse-left-click" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-left-click"/>
+</g>
+<g transform="translate(608, 259)" class="key keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<use href="#phosphor:regular/mouse-right-click" xlink:href="#phosphor:regular/mouse-right-click" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/mouse-right-click"/>
+</g>
+</g>
+</g>
+<g transform="translate(30, 2426)" class="layer-media">
+<text x="0" y="28" class="label">media</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key none keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 55)" class="key none keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(160, 44)" class="key none keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 32)" class="key none keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(288, 44)" class="key none keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key none keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 32)" class="key keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/speaker-simple-x" xlink:href="#phosphor:regular/speaker-simple-x" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/speaker-simple-x"/>
+</g>
+<g transform="translate(672, 44)" class="key none keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 55)" class="key none keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 67)" class="key none keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 131)" class="key keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/command" xlink:href="#phosphor:regular/command" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/command"/>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/control" xlink:href="#phosphor:regular/control" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/control"/>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/arrow-fat-up" xlink:href="#phosphor:regular/arrow-fat-up" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/arrow-fat-up"/>
+</g>
+<g transform="translate(288, 108)" class="key none keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/skip-back" xlink:href="#phosphor:regular/skip-back" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-back"/>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/speaker-simple-low" xlink:href="#phosphor:regular/speaker-simple-low" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/speaker-simple-low"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/speaker-simple-high" xlink:href="#phosphor:regular/speaker-simple-high" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/speaker-simple-high"/>
+</g>
+<g transform="translate(736, 119)" class="key keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/skip-forward" xlink:href="#phosphor:regular/skip-forward" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-forward"/>
+</g>
+<g transform="translate(800, 131)" class="key none keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 195)" class="key none keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/option" xlink:href="#phosphor:regular/option" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/option"/>
+<use href="#phosphor:regular/caret-right" xlink:href="#phosphor:regular/caret-right" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/caret-right"/>
+</g>
+<g transform="translate(160, 172)" class="key none keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 160)" class="key none keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(288, 172)" class="key none keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key none keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 160)" class="key keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/sun-dim" xlink:href="#phosphor:regular/sun-dim" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/sun-dim"/>
+</g>
+<g transform="translate(672, 172)" class="key keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/sun" xlink:href="#phosphor:regular/sun" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/sun"/>
+</g>
+<g transform="translate(736, 183)" class="key none keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 195)" class="key none keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(224, 259)" class="key none keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(304, 259)" class="key none keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<use href="#phosphor:regular/play-pause" xlink:href="#phosphor:regular/play-pause" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/play-pause"/>
+</g>
+<g transform="translate(608, 259)" class="key keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<use href="#phosphor:regular/stop" xlink:href="#phosphor:regular/stop" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/stop"/>
+</g>
+</g>
+</g>
+<g transform="translate(30, 2772)" class="layer-bluetooth">
+<text x="0" y="28" class="label">bluetooth</text>
+<g transform="translate(0, 56)">
+<g transform="translate(32, 67)" class="key none keypos-0">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 55)" class="key keypos-1">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/skip-back" xlink:href="#phosphor:regular/skip-back" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-back"/>
+<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
+</g>
+<g transform="translate(160, 44)" class="key keypos-2">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/trash-simple" xlink:href="#phosphor:regular/trash-simple" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/trash-simple"/>
+<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
+</g>
+<g transform="translate(224, 32)" class="key keypos-3">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/skip-forward" xlink:href="#phosphor:regular/skip-forward" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/skip-forward"/>
+<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
+</g>
+<g transform="translate(288, 44)" class="key keypos-4">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/keyboard" xlink:href="#phosphor:regular/keyboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/keyboard"/>
+<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/bluetooth"/>
+</g>
+<g transform="translate(352, 55)" class="key none keypos-5">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 55)" class="key none keypos-6">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 44)" class="key keypos-7">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/keyboard" xlink:href="#phosphor:regular/keyboard" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/keyboard"/>
+<use href="#phosphor:regular/usb" xlink:href="#phosphor:regular/usb" x="-5" y="-26" height="10" width="10.0" class="key shifted glyph phosphor:regular/usb"/>
+</g>
+<g transform="translate(608, 32)" class="key none keypos-8">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(672, 44)" class="key none keypos-9">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(736, 55)" class="key none keypos-10">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 67)" class="key none keypos-11">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 131)" class="key none keypos-12">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 119)" class="key keypos-13">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">3</text>
+<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
+</g>
+<g transform="translate(160, 108)" class="key keypos-14">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">4</text>
+<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
+</g>
+<g transform="translate(224, 96)" class="key keypos-15">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<use href="#phosphor:regular/trash" xlink:href="#phosphor:regular/trash" x="-7" y="-11" height="14" width="14.0" class="key tap glyph phosphor:regular/trash"/>
+<use href="#phosphor:regular/bluetooth" xlink:href="#phosphor:regular/bluetooth" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth"/>
+</g>
+<g transform="translate(288, 108)" class="key none keypos-16">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 119)" class="key none keypos-17">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 119)" class="key none keypos-18">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 108)" class="key keypos-19">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">
+<tspan x="0" dy="-0.5em">EP</tspan><tspan x="0" dy="1.0em">OFF</tspan>
+</text>
+</g>
+<g transform="translate(608, 96)" class="key keypos-20">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">3</text>
+<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
+</g>
+<g transform="translate(672, 108)" class="key keypos-21">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">4</text>
+<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
+</g>
+<g transform="translate(736, 119)" class="key none keypos-22">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(800, 131)" class="key none keypos-23">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(32, 195)" class="key none keypos-24">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(96, 183)" class="key keypos-25">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">0</text>
+<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
+</g>
+<g transform="translate(160, 172)" class="key keypos-26">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">1</text>
+<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
+</g>
+<g transform="translate(224, 160)" class="key keypos-27">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">2</text>
+<use href="#phosphor:regular/bluetooth-connected" xlink:href="#phosphor:regular/bluetooth-connected" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-connected"/>
+</g>
+<g transform="translate(288, 172)" class="key none keypos-28">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(352, 183)" class="key none keypos-29">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(480, 183)" class="key none keypos-30">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(544, 172)" class="key none keypos-31">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 160)" class="key keypos-32">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">0</text>
+<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
+</g>
+<g transform="translate(672, 172)" class="key keypos-33">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">1</text>
+<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
+</g>
+<g transform="translate(736, 183)" class="key keypos-34">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">2</text>
+<use href="#phosphor:regular/bluetooth-slash" xlink:href="#phosphor:regular/bluetooth-slash" x="-6" y="14" height="12" width="12.0" class="key hold glyph phosphor:regular/bluetooth-slash"/>
+</g>
+<g transform="translate(800, 195)" class="key held keypos-35">
+<rect rx="6" ry="6" x="-30" y="-30" width="60" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-24" y="-28" width="48" height="48" class="key held"/>
+</g>
+<g transform="translate(224, 259)" class="key keypos-36">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">qwerty</text>
+<text x="0" y="26" class="key hold">toggle</text>
+</g>
+<g transform="translate(304, 259)" class="key keypos-37">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key"/>
+<text x="0" y="-4" class="key tap">colemak</text>
+<text x="0" y="26" class="key hold">toggle</text>
+</g>
+<g transform="translate(416, 259)" class="key none keypos-38">
+<rect rx="6" ry="6" x="-70" y="-30" width="140" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-64" y="-28" width="128" height="48" class="key none"/>
+</g>
+<g transform="translate(528, 259)" class="key none keypos-39">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key none side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key none"/>
+</g>
+<g transform="translate(608, 259)" class="key held keypos-40">
+<rect rx="6" ry="6" x="-38" y="-30" width="76" height="60" class="key held side"/>
+<rect rx="4" ry="4" x="-32" y="-28" width="64" height="48" class="key held"/>
 </g>
 </g>
 </g>
