@@ -42,47 +42,47 @@ layers:
   - {type: none}
   - {t: '$$material:space_bar$$', h: symbol}
   - {t: '$$phosphor:regular/backspace$$', h: number}
-  colemak:
+  gaming:
   - Q
   - W
-  - F
-  - P
-  - B
+  - E
+  - R
+  - T
   - {type: none}
   - {type: none}
-  - J
-  - L
-  - U
   - Y
-  - ''''
+  - U
+  - I
+  - O
+  - P
   - A
-  - {t: R, h: '$$phosphor:regular/option$$'}
-  - {t: S, h: '$$phosphor:regular/control$$'}
-  - {t: T, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - S
+  - D
+  - F
   - G
   - {type: none}
   - {type: none}
-  - M
-  - {t: N, h: '$$phosphor:regular/arrow-fat-up$$'}
-  - {t: E, h: '$$phosphor:regular/control$$'}
-  - {t: I, h: '$$phosphor:regular/option$$'}
-  - {t: O, h: '$$phosphor:regular/command$$'}
+  - H
+  - J
+  - K
+  - L
+  - ''''
   - Z
   - X
   - C
-  - D
   - V
+  - B
   - {type: none}
   - {type: none}
-  - K
-  - H
+  - N
+  - M
   - ','
   - .
   - /
   - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
-  - {t: '$$phosphor:regular/arrow-bend-down-left$$', h: mouse}
+  - $$material:space_bar$$
   - {type: none}
-  - {t: '$$material:space_bar$$', h: symbol}
+  - $$phosphor:regular/arrow-bend-down-left$$
   - {t: '$$phosphor:regular/backspace$$', h: number}
   number:
   - '['
@@ -374,7 +374,7 @@ layers:
   - {t: '2', h: '$$phosphor:regular/bluetooth-slash$$'}
   - {type: held}
   - {t: qwerty, h: toggle}
-  - {t: colemak, h: toggle}
+  - {t: gaming, h: toggle}
   - {type: none}
   - {type: none}
   - {type: held}
