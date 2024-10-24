@@ -42,19 +42,6 @@
         chosen {
                 zmk,battery = &vbatt;
         };
-        combos {
-            compatible = "zmk,combos";
-            combo_esc {
-                timeout-ms = <50>;
-                key-positions = <0 1>;
-                bindings = <&kp ESC>;
-            };
-            combo_delete {
-                timeout-ms = <50>;
-                key-positions = <8 9>;
-                bindings = <&kp DELETE>;
-            };
-        };
         behaviors {
                 hml: hml {
                         compatible = "zmk,behavior-hold-tap";
@@ -102,7 +89,7 @@
 
                 number_layer { // 2
                         bindings = <
-   &kp LBKT  &kp N7 &kp N8 &kp N9 &kp RBKT  &none       &none &soft_off &none     &none     &none    &mo FUNCTION
+   &kp LBKT  &kp N7 &kp N8 &kp N9 &kp RBKT  &none       &none &soft_off &none     &none     &none    &lt FUNCTION DELETE
    &kp SEMI  &kp N4 &kp N5 &kp N6 &kp EQUAL &none       &none &none     &kp RSHFT &kp RCTRL &kp LALT &kp RGUI
    &kp GRAVE &kp N1 &kp N2 &kp N3 &kp BSLH  &none       &none &none     &none     &none     &kp RALT &mo BLUETOOTH
                                  &kp N0 &kp MINUS &none &none &none
@@ -129,7 +116,7 @@
 
                 nav_layer { // 5
                         bindings = <
-   &mo MEDIA &none    &none     &none     &none &none       &none &none    &kp K_PASTE &kp K_COPY &kp K_CUT &caps_word
+   &lt MEDIA ESC &none    &none     &none     &none &none       &none &none    &kp K_PASTE &kp K_COPY &kp K_CUT &caps_word
    &kp LGUI  &kp LALT &kp LCTRL &kp LSHFT &none &none       &none &kp LEFT &kp DOWN    &kp UP     &kp RIGHT &kp CAPS
    &none     &kp RALT &none     &none     &none &none       &none &kp HOME &kp PG_DN   &kp PG_UP  &kp END   &kp INS
                                           &none &none &none &kp SPACE &kp BSPC
