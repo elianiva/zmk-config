@@ -21,6 +21,3 @@ include:
   - board: nrfmicro_13
     shield: reviung41
     artifact-name: miyu34
-  - board: nice_nano_v2
-    shield: reviung41
-    artifact-name: miyu34-nice!nano

@@ -1,7 +1,7 @@
 manifest:
   remotes:
     - name: urob
-      url-base: https://github.com/petejohanson
+      url-base: https://github.com/urob
   projects:
     - name: zmk
       remote: urob
