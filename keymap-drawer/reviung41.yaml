@@ -96,7 +96,7 @@ layers:
   - {type: none}
   - {type: none}
   - {type: none}
-  - function
+  - {t: '$$phosphor:regular/trash$$', h: function}
   - ;
   - '4'
   - '5'
@@ -211,7 +211,7 @@ layers:
   - {type: held}
   - {type: none}
   nav:
-  - {h: bluetooth}
+  - $$phosphor:regular/sign-out$$
   - {type: none}
   - {type: none}
   - {type: none}
@@ -378,8 +378,3 @@ layers:
   - {type: none}
   - {type: none}
   - {type: held}
-combos:
-- p: [0, 1]
-  k: $$phosphor:regular/sign-out$$
-- p: [8, 9]
-  k: $$phosphor:regular/trash$$
