@@ -6,50 +6,50 @@ layers:
   - E
   - R
   - T
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - Y
   - U
   - I
   - O
   - P
   - A
-  - {t: S, h: '$$phosphor:regular/option$$'}
-  - {t: D, h: '$$phosphor:regular/control$$'}
-  - {t: F, h: '$$phosphor:regular/arrow-fat-up$$'}
+  - {t: S, h: LALT}
+  - {t: D, h: LCTRL}
+  - {t: F, h: LSHFT}
   - G
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - H
-  - {t: J, h: '$$phosphor:regular/arrow-fat-up$$'}
-  - {t: K, h: '$$phosphor:regular/control$$'}
-  - {t: L, h: '$$phosphor:regular/option$$'}
-  - {t: '''', h: '$$phosphor:regular/command$$'}
+  - {t: J, h: RSHFT}
+  - {t: K, h: RCTRL}
+  - {t: L, h: LALT}
+  - {t: QUOT, h: RGUI}
   - Z
   - X
   - C
   - V
   - B
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - N
   - M
   - ','
   - .
   - /
-  - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
-  - {t: '$$phosphor:regular/arrow-bend-down-left$$', h: mouse}
-  - {type: none}
-  - {t: '$$material:space_bar$$', h: symbol}
-  - {t: '$$phosphor:regular/backspace$$', h: number}
+  - {t: TAB, h: nav}
+  - {t: ENTER, h: mouse}
+  - ''
+  - {t: SPACE, h: symbol}
+  - {t: BACKSPACE, h: number}
   gaming:
   - Q
   - W
   - E
   - R
   - T
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - Y
   - U
   - I
@@ -60,113 +60,113 @@ layers:
   - D
   - F
   - G
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - H
   - J
   - K
   - L
-  - ''''
+  - QUOT
   - Z
   - X
   - C
   - V
   - B
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - N
   - M
   - ','
   - .
   - /
-  - {t: '$$phosphor:regular/arrows-left-right$$', h: nav}
-  - $$material:space_bar$$
-  - {type: none}
-  - $$phosphor:regular/arrow-bend-down-left$$
-  - {t: '$$phosphor:regular/backspace$$', h: number}
+  - {t: TAB, h: nav}
+  - SPACE
+  - ''
+  - ENTER
+  - {t: BACKSPACE, h: number}
   number:
   - '['
   - '7'
   - '8'
   - '9'
   - ']'
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/power$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/trash$$', h: function}
+  - ''
+  - ''
+  - '&soft_off'
+  - ''
+  - ''
+  - ''
+  - {t: DELETE, h: function}
   - ;
   - '4'
   - '5'
   - '6'
   - '='
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/arrow-fat-up$$
-  - $$phosphor:regular/control$$
-  - $$phosphor:regular/option$$
-  - $$phosphor:regular/command$$
+  - ''
+  - ''
+  - ''
+  - RSHFT
+  - RCTRL
+  - LALT
+  - RGUI
   - '`'
   - '1'
   - '2'
   - '3'
   - \
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RALT
   - bluetooth
   - '0'
   - '-'
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - {type: held}
   function:
   - F12
   - F7
   - F8
   - F9
-  - $$phosphor:regular/crop$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
+  - PSCRN
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - {type: held}
   - F11
   - F4
   - F5
   - F6
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/arrow-fat-up$$
-  - $$phosphor:regular/control$$
-  - $$phosphor:regular/option$$
-  - $$phosphor:regular/command$$
+  - ''
+  - ''
+  - ''
+  - ''
+  - RSHFT
+  - RCTRL
+  - LALT
+  - RGUI
   - F10
   - F1
   - F2
   - F3
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
-  - {type: none}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RALT
+  - ''
   - '0'
   - '-'
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - {type: held}
   symbol:
   - '{'
@@ -174,207 +174,207 @@ layers:
   - '*'
   - (
   - '}'
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
   - ':'
   - $
   - '%'
   - ^
   - +
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/arrow-fat-up$$
-  - $$phosphor:regular/control$$
-  - $$phosphor:regular/option$$
-  - $$phosphor:regular/command$$
+  - ''
+  - ''
+  - ''
+  - RSHFT
+  - RCTRL
+  - LALT
+  - RGUI
   - '~'
   - '!'
   - '@'
   - '#'
   - '|'
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
-  - {type: none}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - RALT
+  - ''
   - (
   - )
-  - {type: none}
+  - ''
   - {type: held}
-  - {type: none}
+  - ''
   nav:
-  - $$phosphor:regular/sign-out$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/clipboard$$
-  - $$phosphor:regular/copy$$
-  - $$phosphor:regular/scissors$$
-  - {t: '$$phosphor:regular/arrow-fat-line-up$$', s: word}
-  - $$phosphor:regular/command$$
-  - $$phosphor:regular/option$$
-  - $$phosphor:regular/control$$
-  - $$phosphor:regular/arrow-fat-up$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/arrow-left$$
-  - $$phosphor:regular/arrow-down$$
-  - $$phosphor:regular/arrow-up$$
-  - $$phosphor:regular/arrow-right$$
-  - $$phosphor:regular/arrow-fat-line-up$$
-  - {type: none}
-  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/caret-line-left$$
-  - $$phosphor:regular/caret-line-down$$
-  - $$phosphor:regular/caret-line-up$$
-  - $$phosphor:regular/caret-line-right$$
-  - $$phosphor:regular/download-simple$$
+  - {t: ESC, h: media}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - PASTE
+  - COPY
+  - CUT
+  - '&caps_word'
+  - LGUI
+  - LALT
+  - LCTRL
+  - LSHFT
+  - ''
+  - ''
+  - ''
+  - LEFT
+  - DOWN
+  - UP
+  - RIGHT
+  - CAPS
+  - ''
+  - RALT
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - HOME
+  - PG DN
+  - PG UP
+  - END
+  - INS
   - {type: held}
-  - {type: none}
-  - {type: none}
-  - $$material:space_bar$$
-  - $$phosphor:regular/backspace$$
+  - ''
+  - ''
+  - SPACE
+  - BSPC
   mouse:
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/mouse-middle-click$$
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&mkp MCLK'
   - PREVIOUS
   - NEXT
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/command$$
-  - $$phosphor:regular/option$$
-  - $$phosphor:regular/control$$
-  - $$phosphor:regular/arrow-fat-up$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-left$$'}
-  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-down$$'}
-  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-up$$'}
-  - {t: '$$phosphor:regular/mouse$$', s: '$$phosphor:regular/caret-double-right$$'}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-left$$'}
-  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-down$$'}
-  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-up$$'}
-  - {t: '$$phosphor:regular/mouse-scroll$$', s: '$$phosphor:regular/caret-double-right$$'}
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
+  - LGUI
+  - LALT
+  - LCTRL
+  - LSHFT
+  - ''
+  - ''
+  - ''
+  - '&mmv MOVE_LEFT'
+  - '&mmv MOVE_DOWN'
+  - '&mmv MOVE_UP'
+  - '&mmv MOVE_RIGHT'
+  - ''
+  - ''
+  - RALT
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - '&msc SCRL_LEFT'
+  - '&msc SCRL_DOWN'
+  - '&msc SCRL_UP'
+  - '&msc SCRL_RIGHT'
+  - ''
+  - ''
   - {type: held}
-  - {type: none}
-  - $$phosphor:regular/mouse-left-click$$
-  - $$phosphor:regular/mouse-right-click$$
+  - ''
+  - '&mkp LCLK'
+  - '&mkp RCLK'
   media:
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/speaker-simple-x$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/command$$
-  - $$phosphor:regular/option$$
-  - $$phosphor:regular/control$$
-  - $$phosphor:regular/arrow-fat-up$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/skip-back$$
-  - $$phosphor:regular/speaker-simple-low$$
-  - $$phosphor:regular/speaker-simple-high$$
-  - $$phosphor:regular/skip-forward$$
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/option$$', h: '$$phosphor:regular/caret-right$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/sun-dim$$
-  - $$phosphor:regular/sun$$
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - $$phosphor:regular/play-pause$$
-  - $$phosphor:regular/stop$$
+  - {type: held}
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - MUTE
+  - ''
+  - ''
+  - ''
+  - LGUI
+  - LALT
+  - LCTRL
+  - LSHFT
+  - ''
+  - ''
+  - ''
+  - PREV
+  - VOL DN
+  - VOL UP
+  - NEXT
+  - ''
+  - ''
+  - RALT
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - BRI DN
+  - BRI UP
+  - ''
+  - ''
+  - {type: held}
+  - ''
+  - ''
+  - PP
+  - STOP
   bluetooth:
-  - {type: none}
-  - {t: '$$phosphor:regular/skip-back$$', h: '$$phosphor:regular/bluetooth$$'}
-  - {t: '$$phosphor:regular/trash-simple$$', h: '$$phosphor:regular/bluetooth$$'}
-  - {t: '$$phosphor:regular/skip-forward$$', h: '$$phosphor:regular/bluetooth$$'}
-  - {t: '$$phosphor:regular/keyboard$$', s: '$$phosphor:regular/bluetooth$$'}
-  - {type: none}
-  - {type: none}
-  - {t: '$$phosphor:regular/keyboard$$', s: '$$phosphor:regular/usb$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '3', h: '$$phosphor:regular/bluetooth-connected$$'}
-  - {t: '4', h: '$$phosphor:regular/bluetooth-connected$$'}
-  - {t: '$$phosphor:regular/trash$$', h: '$$phosphor:regular/bluetooth$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
+  - ''
+  - BT PRV
+  - BT CLR
+  - BT NXT
+  - OUT BLE
+  - ''
+  - ''
+  - OUT USB
+  - ''
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: BT, h: '3'}
+  - {t: BT, h: '4'}
+  - BT CLR ALL
+  - ''
+  - ''
+  - ''
   - EP OFF
-  - {t: '3', h: '$$phosphor:regular/bluetooth-slash$$'}
-  - {t: '4', h: '$$phosphor:regular/bluetooth-slash$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '0', h: '$$phosphor:regular/bluetooth-connected$$'}
-  - {t: '1', h: '$$phosphor:regular/bluetooth-connected$$'}
-  - {t: '2', h: '$$phosphor:regular/bluetooth-connected$$'}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {type: none}
-  - {t: '0', h: '$$phosphor:regular/bluetooth-slash$$'}
-  - {t: '1', h: '$$phosphor:regular/bluetooth-slash$$'}
-  - {t: '2', h: '$$phosphor:regular/bluetooth-slash$$'}
+  - {t: BT DISC, h: '3'}
+  - {t: BT DISC, h: '4'}
+  - ''
+  - ''
+  - ''
+  - {t: BT, h: '0'}
+  - {t: BT, h: '1'}
+  - {t: BT, h: '2'}
+  - ''
+  - ''
+  - ''
+  - ''
+  - {t: BT DISC, h: '0'}
+  - {t: BT DISC, h: '1'}
+  - {t: BT DISC, h: '2'}
   - {type: held}
   - {t: qwerty, h: toggle}
   - {t: gaming, h: toggle}
-  - {type: none}
-  - {type: none}
+  - ''
+  - ''
   - {type: held}
