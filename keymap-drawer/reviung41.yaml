@@ -261,9 +261,9 @@ layers:
   - {type: none}
   - {type: none}
   - $$phosphor:regular/mouse-middle-click$$
-  - $$phosphor:regular/clipboard$$
-  - $$phosphor:regular/copy$$
-  - $$phosphor:regular/scissors$$
+  - PREVIOUS
+  - NEXT
+  - {type: none}
   - {type: none}
   - $$phosphor:regular/command$$
   - $$phosphor:regular/option$$
