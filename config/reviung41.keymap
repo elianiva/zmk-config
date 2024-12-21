@@ -62,16 +62,6 @@
                         hold-trigger-key-positions = <KEYS_R THUMBS>;
                         hold-trigger-on-release;
                 };
-                mmv: mmv {
-                  compatible = "zmk,behavior-input-two-axis";
-                  time-to-max-speed-ms = <50>;
-                  acceleration-exponent = <1>;
-                }
-                msc: msc {
-                  compatible = "zmk,behavior-input-two-axis";
-                  time-to-max-speed-ms = <50>;
-                  acceleration-exponent = <1>;
-                }
         };
         keymap {
                 compatible = "zmk,keymap";
