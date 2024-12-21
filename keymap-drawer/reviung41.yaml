@@ -261,8 +261,8 @@ layers:
   - ''
   - ''
   - '&mkp MCLK'
-  - PREVIOUS
-  - NEXT
+  - '&mkp MB4'
+  - '&mkp MB5'
   - ''
   - ''
   - LGUI
